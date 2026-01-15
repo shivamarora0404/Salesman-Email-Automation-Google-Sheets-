@@ -1,0 +1,1061 @@
+Sale Date,Region,State,City,Product,Quantity,Salesman,AGE,Price per Unit,Sales Amount
+06-08-2023,West,Gujarat,Vadodara,Groceries,20,Priya,23,4944.01,98880.2
+07-12-2023,North,Delhi,Dwarka,Furniture,20,Rajendra,17,4821.82,96436.4
+01-10-2023,West,Gujarat,Surat,Clothing,20,vishal,21,4712.75,94255
+22-09-2023,South,Tamil Nadu,Chennai,Electronics,20,Rajendra,37,4710.85,94217
+24-04-2023,West,Maharashtra,Nagpur,Electronics,19,Rajendra,52,4943.69,93930.11
+30-01-2023,West,Gujarat,Ahmedabad,Stationery,19,Pinkesh,28,4920.44,93488.36
+23-02-2023,West,Maharashtra,Mumbai,Groceries,20,Rajendra,27,4638.2,92764
+16-01-2023,South,Tamil Nadu,Madurai,Furniture,19,Rajendra,43,4771.5,90658.5
+08-03-2023,South,Tamil Nadu,Chennai,Electronics,19,Kuldeep,37,4642.84,88213.96
+25-10-2023,South,Karnataka,Hubli,Stationery,18,Pankaj,29,4888.02,87984.36
+04-06-2023,South,Tamil Nadu,Chennai,Clothing,20,Jaykesh,26,4398.47,87969.4
+16-08-2023,West,Gujarat,Ahmedabad,Stationery,18,Raghav,18,4862.63,87527.34
+06-05-2023,North,Delhi,New Delhi,Stationery,18,vishal,47,4861.31,87503.58
+05-05-2023,West,Maharashtra,Mumbai,Furniture,20,Keshav,45,4270.08,85401.6
+13-01-2023,West,Maharashtra,Pune,Stationery,18,Pinkesh,42,4721.44,84985.92
+28-06-2023,West,Maharashtra,Nagpur,Stationery,17,Keshav,31,4982.81,84707.77
+28-11-2023,West,Maharashtra,Pune,Groceries,20,Priya,25,4226.93,84538.6
+02-08-2023,West,Gujarat,Ahmedabad,Stationery,17,Keshav,42,4953.04,84201.68
+07-07-2023,South,Karnataka,Mysuru,Furniture,19,vishal,40,4421.69,84012.11
+30-12-2023,South,Karnataka,Hubli,Furniture,19,Dinesh,20,4411.57,83819.83
+30-11-2023,South,Tamil Nadu,Madurai,Furniture,17,Raghav,16,4890.5,83138.5
+06-07-2023,West,Gujarat,Ahmedabad,Furniture,19,Kuldeep,28,4348.73,82625.87
+26-03-2023,South,Karnataka,Hubli,Groceries,17,Raghav,55,4825.24,82029.08
+28-11-2023,West,Gujarat,Surat,Furniture,20,Pinkesh,45,4066.74,81334.8
+20-06-2023,North,Delhi,New Delhi,Furniture,20,Rajendra,43,4035.61,80712.2
+21-03-2023,West,Maharashtra,Pune,Stationery,19,Raghav,34,4229.42,80358.98
+31-03-2023,South,Karnataka,Hubli,Electronics,18,Rustam,18,4450.23,80104.14
+10-12-2023,South,Karnataka,Mysuru,Electronics,16,Jaykesh,21,4999.9,79998.4
+14-09-2023,South,Tamil Nadu,Coimbatore,Clothing,18,Pankaj,55,4422.21,79599.78
+12-06-2023,South,Tamil Nadu,Chennai,Clothing,18,vishal,31,4403.69,79266.42
+28-04-2023,South,Karnataka,Mysuru,Clothing,20,Kuldeep,26,3937.67,78753.4
+03-05-2023,West,Maharashtra,Mumbai,Clothing,19,Dinesh,39,4137.44,78611.36
+14-03-2023,South,Tamil Nadu,Coimbatore,Stationery,19,Pankaj,21,4134.01,78546.19
+07-07-2023,South,Tamil Nadu,Coimbatore,Groceries,20,Pankaj,26,3891.28,77825.6
+04-10-2023,North,Delhi,New Delhi,Electronics,16,Priya,34,4860.07,77761.12
+12-07-2023,West,Gujarat,Ahmedabad,Groceries,16,Jaykesh,34,4858.31,77732.96
+17-08-2023,South,Karnataka,Hubli,Clothing,17,Rajendra,39,4517.78,76802.26
+31-03-2023,South,Tamil Nadu,Chennai,Clothing,17,Keshav,44,4515.21,76758.57
+20-07-2023,North,Delhi,New Delhi,Furniture,17,Pinkesh,18,4502.39,76540.63
+21-07-2023,West,Maharashtra,Nagpur,Clothing,16,Priya,28,4780.77,76492.32
+02-10-2023,South,Karnataka,Hubli,Electronics,16,Pinkesh,49,4720.23,75523.68
+05-07-2023,West,Gujarat,Ahmedabad,Stationery,17,Rajendra,43,4427.79,75272.43
+14-06-2023,North,Delhi,Dwarka,Furniture,20,Rajendra,38,3753.15,75063
+09-01-2023,South,Tamil Nadu,Madurai,Clothing,18,Pinkesh,32,4168.59,75034.62
+26-12-2023,South,Tamil Nadu,Coimbatore,Clothing,20,Rajendra,19,3751.01,75020.2
+13-04-2023,West,Maharashtra,Pune,Stationery,19,Rajendra,49,3927.27,74618.13
+01-08-2023,South,Karnataka,Hubli,Electronics,20,Dinesh,20,3728.46,74569.2
+24-10-2023,West,Gujarat,Ahmedabad,Furniture,19,Rajendra,23,3907.56,74243.64
+09-06-2023,South,Tamil Nadu,Chennai,Stationery,18,Pankaj,54,4103.61,73864.98
+18-01-2023,West,Gujarat,Vadodara,Furniture,16,Pankaj,25,4614.01,73824.16
+15-06-2023,South,Tamil Nadu,Madurai,Groceries,20,Dinesh,38,3684.86,73697.2
+01-11-2023,North,Delhi,New Delhi,Groceries,18,Kuldeep,40,4059.82,73076.76
+26-04-2023,West,Maharashtra,Nagpur,Stationery,18,Rajendra,28,4022.66,72407.88
+14-02-2023,West,Maharashtra,Mumbai,Clothing,15,Rustam,22,4822.26,72333.9
+19-11-2023,West,Maharashtra,Mumbai,Furniture,15,Jaykesh,44,4785.61,71784.15
+09-04-2023,West,Gujarat,Surat,Electronics,18,Rustam,46,3982.89,71692.02
+14-07-2023,West,Gujarat,Ahmedabad,Groceries,18,Pankaj,32,3943.82,70988.76
+16-03-2023,South,Tamil Nadu,Madurai,Stationery,15,Rajendra,21,4724.91,70873.65
+19-12-2023,West,Maharashtra,Mumbai,Electronics,19,vishal,23,3718.59,70653.21
+16-05-2023,South,Karnataka,Bengaluru,Clothing,18,Dinesh,24,3913.42,70441.56
+08-01-2023,West,Gujarat,Ahmedabad,Stationery,17,Rajendra,39,4136.31,70317.27
+22-07-2023,North,Delhi,Dwarka,Furniture,19,Keshav,34,3694.62,70197.78
+08-02-2023,West,Gujarat,Vadodara,Furniture,15,Pinkesh,28,4678.57,70178.55
+09-09-2023,North,Delhi,New Delhi,Electronics,15,vishal,44,4667.42,70011.3
+20-02-2023,West,Maharashtra,Pune,Clothing,19,Pinkesh,50,3683.04,69977.76
+15-12-2023,South,Karnataka,Bengaluru,Groceries,15,Pankaj,52,4659.8,69897
+10-10-2023,West,Maharashtra,Mumbai,Stationery,15,Pankaj,25,4657.82,69867.3
+28-06-2023,North,Delhi,New Delhi,Furniture,16,Rajendra,37,4364.9,69838.4
+04-02-2023,West,Maharashtra,Mumbai,Electronics,17,Kuldeep,42,4100.27,69704.59
+01-10-2023,South,Karnataka,Bengaluru,Groceries,16,Rajendra,40,4354.03,69664.48
+11-09-2023,South,Karnataka,Bengaluru,Clothing,17,Rustam,44,4088.77,69509.09
+05-09-2023,West,Maharashtra,Nagpur,Furniture,20,Keshav,25,3474.05,69481
+20-10-2023,West,Gujarat,Surat,Furniture,20,Keshav,30,3470.23,69404.6
+05-11-2023,West,Maharashtra,Nagpur,Clothing,17,Rajendra,46,4082.38,69400.46
+19-02-2023,West,Gujarat,Surat,Clothing,19,Rajendra,18,3649.75,69345.25
+25-04-2023,South,Tamil Nadu,Coimbatore,Stationery,14,Pankaj,38,4935.34,69094.76
+21-08-2023,North,Delhi,Dwarka,Electronics,20,Rajendra,19,3438.25,68765
+21-07-2023,South,Tamil Nadu,Coimbatore,Clothing,15,Keshav,30,4579.29,68689.35
+08-09-2023,North,Delhi,New Delhi,Furniture,17,Keshav,49,4033.84,68575.28
+20-07-2023,South,Karnataka,Bengaluru,Electronics,14,Raghav,16,4894.84,68527.76
+27-10-2023,South,Karnataka,Mysuru,Stationery,15,Rustam,20,4545.26,68178.9
+06-12-2023,West,Gujarat,Vadodara,Furniture,14,vishal,46,4839.11,67747.54
+02-10-2023,West,Gujarat,Ahmedabad,Furniture,17,vishal,33,3971.7,67518.9
+24-09-2023,South,Tamil Nadu,Madurai,Electronics,17,Kuldeep,32,3933.92,66876.64
+24-07-2023,South,Tamil Nadu,Coimbatore,Clothing,20,vishal,44,3331.04,66620.8
+02-09-2023,South,Tamil Nadu,Madurai,Furniture,15,Jaykesh,19,4426.44,66396.6
+30-12-2023,South,Karnataka,Hubli,Furniture,15,Jaykesh,55,4402.43,66036.45
+04-12-2024,South,Karnataka,Hubli,Furniture,15,Priya,55,4402.43,66036.45
+11-06-2023,North,Delhi,Dwarka,Clothing,17,Jaykesh,20,3878.66,65937.22
+20-01-2023,South,Tamil Nadu,Madurai,Stationery,20,Priya,42,3280.87,65617.4
+18-07-2023,West,Maharashtra,Mumbai,Furniture,14,Rustam,44,4649.53,65093.42
+02-12-2024,West,Maharashtra,Mumbai,Furniture,14,Rustam,44,4649.53,65093.42
+03-08-2023,North,Delhi,Karol Bagh,Stationery,18,Pankaj,21,3614.6,65062.8
+15-10-2023,West,Gujarat,Ahmedabad,Furniture,18,Rustam,16,3602.65,64847.7
+29-12-2023,West,Maharashtra,Pune,Stationery,13,Priya,41,4985.82,64815.66
+22-12-2024,West,Maharashtra,Pune,Stationery,13,Priya,41,4985.82,64815.66
+12-09-2023,West,Gujarat,Ahmedabad,Furniture,17,Pankaj,54,3791.82,64460.94
+07-04-2023,South,Tamil Nadu,Coimbatore,Stationery,17,Pinkesh,16,3771.79,64120.43
+09-05-2023,West,Maharashtra,Nagpur,Electronics,19,Rajendra,22,3374.33,64112.27
+16-01-2023,West,Gujarat,Surat,Electronics,18,Dinesh,49,3561.06,64099.08
+23-05-2023,South,Karnataka,Mysuru,Groceries,15,vishal,27,4269.32,64039.8
+10-04-2023,South,Karnataka,Bengaluru,Groceries,15,Rajendra,51,4262.53,63937.95
+19-04-2023,South,Tamil Nadu,Madurai,Furniture,13,Pankaj,55,4911.57,63850.41
+01-10-2023,West,Maharashtra,Nagpur,Furniture,16,Dinesh,34,3988.32,63813.12
+09-11-2023,South,Karnataka,Bengaluru,Stationery,16,Jaykesh,24,3981.76,63708.16
+16-01-2023,West,Gujarat,Vadodara,Furniture,18,Keshav,44,3524.11,63433.98
+23-08-2023,South,Tamil Nadu,Coimbatore,Electronics,19,Keshav,17,3336.46,63392.74
+01-09-2023,West,Gujarat,Vadodara,Groceries,19,Rustam,25,3326.91,63211.29
+07-04-2023,West,Maharashtra,Mumbai,Stationery,13,Pankaj,53,4850.17,63052.21
+24-02-2023,South,Karnataka,Bengaluru,Groceries,16,vishal,30,3931.95,62911.2
+09-07-2023,North,Delhi,New Delhi,Clothing,17,Pankaj,36,3679.89,62558.13
+14-10-2023,North,Delhi,New Delhi,Groceries,14,Dinesh,23,4457.21,62400.94
+18-11-2024,North,Delhi,New Delhi,Groceries,14,Priya,23,4457.21,62400.94
+06-12-2023,South,Karnataka,Mysuru,Electronics,16,Raghav,54,3897.57,62361.12
+08-12-2023,South,Karnataka,Bengaluru,Groceries,16,Rajendra,30,3895.18,62322.88
+18-06-2023,West,Maharashtra,Mumbai,Electronics,14,Rustam,34,4428,61992
+14-03-2023,North,Delhi,New Delhi,Stationery,20,Kuldeep,40,3069.92,61398.4
+03-08-2023,North,Delhi,Dwarka,Groceries,16,Rajendra,37,3836.1,61377.6
+27-03-2023,North,Delhi,Dwarka,Groceries,16,Kuldeep,51,3788.36,60613.76
+29-08-2023,South,Karnataka,Bengaluru,Furniture,13,Pinkesh,50,4650.74,60459.62
+23-02-2023,South,Karnataka,Hubli,Groceries,12,Keshav,53,4964.87,59578.44
+02-10-2023,South,Karnataka,Hubli,Furniture,12,Rustam,53,4945.77,59349.24
+20-10-2023,West,Maharashtra,Mumbai,Stationery,17,Raghav,52,3490.72,59342.24
+08-01-2023,West,Maharashtra,Pune,Stationery,16,Dinesh,45,3702.43,59238.88
+03-08-2023,North,Delhi,New Delhi,Stationery,18,Jaykesh,27,3287.05,59166.9
+08-08-2023,South,Karnataka,Hubli,Groceries,15,Rajendra,48,3943.63,59154.45
+17-04-2023,North,Delhi,Karol Bagh,Electronics,13,Pankaj,29,4542.74,59055.62
+17-01-2023,South,Karnataka,Bengaluru,Clothing,14,Jaykesh,42,4200.98,58813.72
+29-09-2023,South,Karnataka,Mysuru,Stationery,14,Dinesh,18,4192.86,58700.04
+09-11-2023,South,Tamil Nadu,Chennai,Stationery,15,Jaykesh,21,3909.42,58641.3
+07-08-2023,South,Tamil Nadu,Madurai,Stationery,15,Rajendra,25,3897.39,58460.85
+28-08-2023,South,Tamil Nadu,Coimbatore,Furniture,19,Kuldeep,16,3074.32,58412.08
+09-01-2023,North,Delhi,New Delhi,Electronics,16,Dinesh,29,3625.28,58004.48
+09-06-2023,South,Karnataka,Mysuru,Furniture,19,Dinesh,53,3044.32,57842.08
+03-06-2023,West,Maharashtra,Nagpur,Clothing,16,Priya,45,3599.32,57589.12
+02-05-2023,South,Tamil Nadu,Coimbatore,Clothing,16,Raghav,46,3586.87,57389.92
+25-08-2023,West,Maharashtra,Mumbai,Stationery,16,Rustam,40,3580.79,57292.64
+28-05-2023,South,Tamil Nadu,Coimbatore,Electronics,20,Rajendra,47,2860.96,57219.2
+05-02-2023,South,Tamil Nadu,Madurai,Furniture,20,vishal,24,2860.11,57202.2
+26-12-2023,West,Maharashtra,Pune,Stationery,12,Raghav,54,4765.33,57183.96
+24-05-2023,South,Karnataka,Mysuru,Clothing,17,Keshav,25,3342.49,56822.33
+14-11-2023,West,Maharashtra,Nagpur,Stationery,13,Rustam,53,4357.02,56641.26
+15-11-2023,West,Maharashtra,Nagpur,Electronics,12,Rajendra,19,4713.26,56559.12
+17-11-2023,North,Delhi,New Delhi,Electronics,13,vishal,42,4339.46,56412.98
+15-09-2023,South,Karnataka,Mysuru,Clothing,13,Dinesh,42,4337.22,56383.86
+28-02-2023,South,Tamil Nadu,Coimbatore,Stationery,14,Raghav,36,4009.33,56130.62
+28-02-2023,South,Karnataka,Hubli,Stationery,18,Dinesh,39,3102.47,55844.46
+23-10-2023,South,Karnataka,Bengaluru,Electronics,19,Pankaj,48,2900.31,55105.89
+13-10-2023,West,Gujarat,Vadodara,Clothing,14,vishal,35,3931.74,55044.36
+22-02-2023,South,Karnataka,Mysuru,Clothing,20,Jaykesh,47,2750.28,55005.6
+07-04-2023,South,Tamil Nadu,Madurai,Stationery,17,vishal,43,3233.82,54974.94
+06-11-2023,South,Karnataka,Hubli,Groceries,13,Rustam,31,4226.47,54944.11
+20-11-2024,South,Karnataka,Hubli,Groceries,13,Rustam,31,4226.47,54944.11
+24-06-2023,South,Karnataka,Hubli,Groceries,12,Dinesh,21,4572.79,54873.48
+12-02-2023,West,Maharashtra,Pune,Groceries,18,Rajendra,37,3040.28,54725.04
+24-06-2023,South,Karnataka,Mysuru,Clothing,19,Kuldeep,47,2873.83,54602.77
+12-11-2024,South,Karnataka,Mysuru,Clothing,19,Priya,47,2873.83,54602.77
+10-05-2023,South,Karnataka,Bengaluru,Clothing,15,Keshav,36,3611.2,54168
+27-07-2023,South,Karnataka,Bengaluru,Furniture,19,Raghav,23,2848.96,54130.24
+11-03-2023,South,Tamil Nadu,Madurai,Clothing,19,Kuldeep,53,2814.94,53483.86
+02-02-2023,West,Gujarat,Surat,Groceries,15,Pankaj,20,3555.88,53338.2
+29-09-2023,North,Delhi,New Delhi,Electronics,13,Pankaj,42,4084.32,53096.16
+19-05-2023,West,Gujarat,Vadodara,Electronics,13,Rustam,44,4076.94,53000.22
+01-03-2023,South,Tamil Nadu,Coimbatore,Groceries,12,Pinkesh,27,4403.85,52846.2
+22-07-2023,West,Maharashtra,Mumbai,Clothing,20,Rustam,50,2631.58,52631.6
+17-09-2023,North,Delhi,Dwarka,Groceries,12,Kuldeep,26,4378.41,52540.92
+02-09-2023,South,Karnataka,Bengaluru,Clothing,11,Rajendra,52,4758.46,52343.06
+25-05-2023,West,Gujarat,Surat,Stationery,19,Kuldeep,36,2753.24,52311.56
+11-07-2023,South,Tamil Nadu,Chennai,Clothing,13,Kuldeep,30,4021.84,52283.92
+08-11-2023,West,Gujarat,Ahmedabad,Groceries,19,Priya,32,2743.67,52129.73
+24-12-2023,North,Delhi,Karol Bagh,Stationery,18,Dinesh,54,2880.41,51847.38
+23-03-2023,North,Delhi,Karol Bagh,Clothing,20,Pankaj,24,2580.02,51600.4
+13-03-2023,West,Maharashtra,Pune,Electronics,11,Pinkesh,35,4681.04,51491.44
+11-10-2023,South,Tamil Nadu,Chennai,Groceries,16,Pinkesh,41,3155.43,50486.88
+12-12-2023,South,Karnataka,Mysuru,Electronics,18,vishal,27,2784.49,50120.82
+13-01-2023,West,Maharashtra,Pune,Clothing,18,Priya,22,2777.65,49997.7
+31-12-2023,West,Maharashtra,Pune,Stationery,10,Rajendra,52,4995.74,49957.4
+18-04-2023,West,Gujarat,Ahmedabad,Furniture,11,Keshav,32,4530.56,49836.16
+15-10-2023,South,Tamil Nadu,Coimbatore,Groceries,20,Pinkesh,38,2487.65,49753
+02-03-2023,South,Karnataka,Bengaluru,Clothing,17,Pankaj,39,2924.72,49720.24
+04-12-2023,West,Gujarat,Ahmedabad,Stationery,16,Keshav,51,3082.84,49325.44
+23-04-2023,South,Karnataka,Bengaluru,Stationery,15,vishal,43,3285.68,49285.2
+31-01-2023,South,Karnataka,Mysuru,Electronics,15,Rustam,38,3270.81,49062.15
+26-07-2023,South,Tamil Nadu,Coimbatore,Electronics,20,Raghav,44,2446.31,48926.2
+19-03-2023,North,Delhi,Dwarka,Furniture,15,Raghav,49,3256.2,48843
+05-09-2023,North,Delhi,Karol Bagh,Clothing,13,vishal,42,3724.27,48415.51
+10-07-2023,West,Maharashtra,Nagpur,Groceries,20,Rustam,31,2415.86,48317.2
+15-06-2023,North,Delhi,New Delhi,Furniture,15,Rajendra,16,3218.59,48278.85
+14-01-2023,North,Delhi,Karol Bagh,Furniture,12,Rajendra,25,4011.85,48142.2
+13-11-2023,North,Delhi,Karol Bagh,Furniture,19,Dinesh,27,2532.78,48122.82
+18-09-2023,West,Gujarat,Ahmedabad,Furniture,14,Rustam,20,3433.55,48069.7
+09-07-2023,North,Delhi,Karol Bagh,Groceries,12,Dinesh,41,4003.52,48042.24
+12-05-2023,North,Delhi,Dwarka,Groceries,16,Pinkesh,32,2991.84,47869.44
+30-06-2023,North,Delhi,Dwarka,Electronics,12,Pinkesh,36,3981.34,47776.08
+27-12-2023,South,Karnataka,Mysuru,Groceries,19,Pankaj,23,2513.27,47752.13
+12-01-2023,South,Karnataka,Hubli,Furniture,16,Priya,18,2976.17,47618.72
+28-06-2023,South,Karnataka,Bengaluru,Groceries,10,Rustam,47,4761.19,47611.9
+19-09-2023,West,Gujarat,Vadodara,Electronics,19,Jaykesh,28,2493.03,47367.57
+11-02-2023,West,Maharashtra,Mumbai,Electronics,16,Rajendra,35,2954.32,47269.12
+23-08-2023,South,Tamil Nadu,Coimbatore,Groceries,12,Jaykesh,16,3932.48,47189.76
+28-03-2023,West,Gujarat,Vadodara,Clothing,10,Kuldeep,39,4718.03,47180.3
+25-05-2023,North,Delhi,Karol Bagh,Groceries,20,Rustam,35,2344.76,46895.2
+30-09-2023,West,Maharashtra,Pune,Groceries,12,Rajendra,38,3895.88,46750.56
+23-03-2023,South,Tamil Nadu,Madurai,Clothing,13,Pinkesh,51,3568.86,46395.18
+03-01-2023,West,Gujarat,Ahmedabad,Furniture,11,vishal,47,4205.55,46261.05
+12-06-2023,South,Tamil Nadu,Chennai,Stationery,13,Keshav,34,3551.21,46165.73
+26-07-2023,West,Maharashtra,Pune,Furniture,16,Dinesh,34,2882.65,46122.4
+14-12-2023,West,Gujarat,Surat,Furniture,11,Priya,53,4188.37,46072.07
+17-06-2023,South,Tamil Nadu,Madurai,Clothing,15,Priya,18,3048.36,45725.4
+07-03-2023,West,Maharashtra,Mumbai,Furniture,14,Rustam,16,3259.64,45634.96
+01-06-2023,South,Tamil Nadu,Chennai,Clothing,12,Kuldeep,36,3785.29,45423.48
+27-10-2023,South,Karnataka,Hubli,Stationery,19,vishal,32,2386.59,45345.21
+30-03-2023,South,Tamil Nadu,Coimbatore,Electronics,17,Priya,43,2664.62,45298.54
+11-07-2023,West,Gujarat,Vadodara,Electronics,15,Priya,37,3005.08,45076.2
+16-11-2023,South,Tamil Nadu,Coimbatore,Stationery,11,Priya,47,4089.16,44980.76
+30-09-2023,South,Tamil Nadu,Coimbatore,Furniture,10,Kuldeep,53,4496.39,44963.9
+29-12-2023,West,Maharashtra,Nagpur,Electronics,18,Rajendra,31,2494.95,44909.1
+11-10-2023,South,Karnataka,Bengaluru,Stationery,11,Jaykesh,26,4066.2,44728.2
+24-09-2023,South,Tamil Nadu,Coimbatore,Furniture,16,Rustam,25,2793.48,44695.68
+19-03-2023,West,Maharashtra,Nagpur,Electronics,9,Pinkesh,34,4953.4,44580.6
+20-05-2023,North,Delhi,Karol Bagh,Stationery,13,Pankaj,43,3423.36,44503.68
+20-11-2023,South,Karnataka,Hubli,Stationery,12,Kuldeep,49,3703.31,44439.72
+08-03-2023,South,Tamil Nadu,Chennai,Groceries,17,Rajendra,47,2603.49,44259.33
+29-04-2023,West,Maharashtra,Pune,Furniture,12,Priya,32,3686.27,44235.24
+28-05-2023,South,Tamil Nadu,Chennai,Groceries,10,Dinesh,27,4413.5,44135
+31-07-2023,West,Gujarat,Ahmedabad,Stationery,16,Kuldeep,16,2747.36,43957.76
+18-10-2023,South,Karnataka,Bengaluru,Stationery,15,Rajendra,19,2920.62,43809.3
+17-07-2023,West,Gujarat,Ahmedabad,Stationery,12,Pankaj,40,3650.3,43803.6
+20-06-2023,South,Tamil Nadu,Coimbatore,Clothing,19,Raghav,20,2304.92,43793.48
+01-01-2023,West,Maharashtra,Mumbai,Stationery,9,Kuldeep,27,4858.75,43728.75
+01-07-2023,West,Maharashtra,Mumbai,Furniture,11,Kuldeep,52,3969.39,43663.29
+11-05-2023,South,Tamil Nadu,Chennai,Groceries,15,Pinkesh,23,2905.47,43582.05
+02-11-2023,West,Maharashtra,Nagpur,Groceries,15,Rajendra,52,2869.14,43037.1
+02-10-2023,South,Karnataka,Hubli,Stationery,9,Rajendra,49,4781.72,43035.48
+01-02-2023,North,Delhi,New Delhi,Clothing,10,Kuldeep,53,4298.32,42983.2
+13-10-2023,South,Tamil Nadu,Chennai,Stationery,16,Kuldeep,50,2682.3,42916.8
+12-07-2023,West,Maharashtra,Mumbai,Electronics,9,Kuldeep,27,4757.53,42817.77
+13-10-2023,West,Gujarat,Ahmedabad,Electronics,20,Pinkesh,32,2133.53,42670.6
+24-08-2023,West,Gujarat,Vadodara,Clothing,16,Pinkesh,44,2666.78,42668.48
+22-12-2023,South,Tamil Nadu,Chennai,Clothing,20,Jaykesh,54,2123.15,42463
+03-03-2023,South,Tamil Nadu,Chennai,Clothing,16,Raghav,33,2640.08,42241.28
+17-02-2023,South,Karnataka,Hubli,Groceries,10,Pinkesh,22,4196.24,41962.4
+11-10-2023,South,Karnataka,Hubli,Groceries,16,Jaykesh,18,2619.73,41915.68
+18-12-2023,South,Tamil Nadu,Chennai,Groceries,9,vishal,23,4638.57,41747.13
+23-11-2023,South,Karnataka,Hubli,Clothing,16,Rustam,38,2600.48,41607.68
+05-12-2023,South,Tamil Nadu,Coimbatore,Electronics,13,Pankaj,52,3190.8,41480.4
+10-02-2023,West,Gujarat,Vadodara,Electronics,12,Rajendra,55,3443.54,41322.48
+28-11-2023,South,Karnataka,Bengaluru,Furniture,16,Raghav,28,2573.33,41173.28
+03-11-2023,West,Maharashtra,Mumbai,Stationery,16,Rajendra,41,2563.69,41019.04
+13-05-2023,North,Delhi,New Delhi,Groceries,10,vishal,30,4092.05,40920.5
+03-08-2023,West,Maharashtra,Mumbai,Furniture,14,Jaykesh,40,2918.42,40857.88
+18-08-2023,West,Maharashtra,Mumbai,Clothing,12,Priya,32,3400.71,40808.52
+20-02-2023,West,Gujarat,Ahmedabad,Clothing,19,vishal,29,2146.17,40777.23
+24-01-2023,West,Maharashtra,Nagpur,Stationery,15,Raghav,17,2706.66,40599.9
+28-04-2023,South,Karnataka,Mysuru,Groceries,9,Jaykesh,21,4485.21,40366.89
+02-05-2023,South,Karnataka,Mysuru,Electronics,12,Dinesh,46,3358.78,40305.36
+16-08-2023,West,Maharashtra,Nagpur,Furniture,11,Priya,23,3646.35,40109.85
+25-10-2023,North,Delhi,Dwarka,Furniture,16,Rajendra,42,2502.57,40041.12
+15-12-2023,North,Delhi,New Delhi,Furniture,13,Keshav,19,3069.28,39900.64
+24-01-2023,North,Delhi,New Delhi,Electronics,8,Rajendra,35,4986.31,39890.48
+04-12-2023,South,Karnataka,Mysuru,Stationery,10,Keshav,33,3964.05,39640.5
+15-07-2023,West,Maharashtra,Mumbai,Clothing,20,Rajendra,38,1977,39540
+01-12-2023,South,Karnataka,Bengaluru,Clothing,10,vishal,44,3950.06,39500.6
+15-07-2023,South,Karnataka,Bengaluru,Groceries,11,Dinesh,52,3590.89,39499.79
+03-03-2023,West,Maharashtra,Nagpur,Electronics,11,Jaykesh,19,3584.06,39424.66
+08-07-2023,South,Karnataka,Mysuru,Stationery,17,Jaykesh,43,2316.09,39373.53
+05-07-2023,South,Tamil Nadu,Coimbatore,Groceries,14,Rustam,54,2808.58,39320.12
+08-03-2023,South,Tamil Nadu,Coimbatore,Groceries,11,vishal,38,3561.4,39175.4
+23-12-2023,West,Maharashtra,Nagpur,Clothing,10,Raghav,25,3907.49,39074.9
+23-05-2023,West,Maharashtra,Nagpur,Clothing,14,Priya,35,2785.95,39003.3
+22-09-2023,North,Delhi,New Delhi,Electronics,8,Rajendra,55,4866.58,38932.64
+26-08-2023,West,Gujarat,Ahmedabad,Electronics,11,Rustam,50,3538.83,38927.13
+23-04-2023,West,Maharashtra,Mumbai,Electronics,14,Kuldeep,31,2775.33,38854.62
+14-04-2023,West,Maharashtra,Nagpur,Furniture,10,Rustam,37,3882.87,38828.7
+01-06-2023,West,Gujarat,Surat,Groceries,15,Keshav,39,2586.8,38802
+19-11-2023,North,Delhi,Karol Bagh,Clothing,18,Dinesh,52,2149.99,38699.82
+18-03-2023,South,Karnataka,Hubli,Stationery,14,Raghav,46,2746.27,38447.78
+07-03-2023,West,Gujarat,Ahmedabad,Groceries,20,Rajendra,24,1916.52,38330.4
+06-07-2023,West,Maharashtra,Nagpur,Electronics,15,Priya,19,2551.6,38274
+31-12-2023,West,Maharashtra,Pune,Stationery,10,Keshav,32,3806.67,38066.7
+24-05-2023,West,Gujarat,Ahmedabad,Furniture,14,Rajendra,43,2715.54,38017.56
+04-01-2023,South,Tamil Nadu,Madurai,Electronics,13,vishal,23,2913.56,37876.28
+08-06-2023,West,Gujarat,Ahmedabad,Electronics,15,Jaykesh,32,2514.95,37724.25
+08-11-2023,North,Delhi,New Delhi,Electronics,17,Rajendra,52,2216.38,37678.46
+10-05-2023,West,Maharashtra,Mumbai,Clothing,18,Dinesh,24,2074.52,37341.36
+15-06-2023,West,Maharashtra,Mumbai,Clothing,19,Rustam,48,1965.12,37337.28
+13-09-2023,South,Tamil Nadu,Madurai,Groceries,8,Rustam,38,4651.3,37210.4
+07-07-2023,South,Karnataka,Bengaluru,Groceries,15,Rajendra,46,2477.09,37156.35
+31-08-2023,West,Maharashtra,Mumbai,Furniture,8,Dinesh,26,4621.75,36974
+12-12-2024,West,Maharashtra,Mumbai,Furniture,8,Priya,26,4621.75,36974
+27-06-2023,West,Maharashtra,Pune,Clothing,12,Pinkesh,52,3076.03,36912.36
+13-11-2023,West,Maharashtra,Mumbai,Furniture,12,Pankaj,32,3074.45,36893.4
+18-12-2023,South,Tamil Nadu,Madurai,Clothing,13,Rajendra,21,2829.47,36783.11
+20-05-2023,West,Maharashtra,Mumbai,Electronics,8,Keshav,46,4576.97,36615.76
+07-09-2023,West,Maharashtra,Mumbai,Clothing,13,Rajendra,38,2809.29,36520.77
+16-11-2023,West,Maharashtra,Nagpur,Stationery,12,Keshav,48,3028.88,36346.56
+24-12-2023,South,Karnataka,Mysuru,Stationery,8,Dinesh,19,4516.82,36134.56
+21-02-2023,West,Gujarat,Vadodara,Electronics,17,Priya,27,2107.36,35825.12
+17-09-2023,North,Delhi,Dwarka,Clothing,18,Kuldeep,16,1986.52,35757.36
+26-05-2023,South,Karnataka,Bengaluru,Groceries,16,vishal,37,2231.67,35706.72
+11-02-2023,West,Maharashtra,Pune,Clothing,13,Pinkesh,27,2745.75,35694.75
+03-07-2023,South,Karnataka,Mysuru,Stationery,18,Priya,45,1968.87,35439.66
+05-10-2023,South,Karnataka,Bengaluru,Groceries,10,Pinkesh,28,3540.6,35406
+13-04-2023,South,Karnataka,Bengaluru,Electronics,8,Raghav,35,4402.36,35218.88
+04-12-2023,South,Karnataka,Hubli,Groceries,15,Kuldeep,21,2346.4,35196
+04-03-2023,South,Tamil Nadu,Chennai,Electronics,13,Dinesh,36,2693.09,35010.17
+16-05-2023,West,Maharashtra,Mumbai,Stationery,15,Keshav,46,2330.62,34959.3
+26-10-2023,North,Delhi,New Delhi,Furniture,16,vishal,30,2178.78,34860.48
+25-11-2024,North,Delhi,New Delhi,Furniture,16,Rustam,30,2178.78,34860.48
+03-07-2023,North,Delhi,New Delhi,Clothing,17,Rajendra,50,2045.39,34771.63
+16-01-2023,North,Delhi,Karol Bagh,Stationery,8,Rajendra,30,4334.41,34675.28
+21-02-2023,West,Gujarat,Ahmedabad,Stationery,13,Raghav,20,2665.15,34646.95
+15-12-2023,South,Tamil Nadu,Madurai,Clothing,12,Kuldeep,18,2882.46,34589.52
+04-05-2023,West,Maharashtra,Nagpur,Groceries,17,Kuldeep,17,2031.75,34539.75
+13-08-2023,South,Karnataka,Mysuru,Clothing,10,vishal,50,3439.35,34393.5
+17-11-2023,West,Gujarat,Surat,Electronics,19,Jaykesh,25,1809.9,34388.1
+04-02-2023,West,Maharashtra,Nagpur,Stationery,8,Priya,49,4290.04,34320.32
+05-07-2023,North,Delhi,New Delhi,Electronics,10,Rajendra,19,3411.13,34111.3
+01-07-2023,North,Delhi,Dwarka,Furniture,14,Pankaj,50,2429.23,34009.22
+25-07-2023,South,Tamil Nadu,Chennai,Stationery,12,Rajendra,53,2821.2,33854.4
+19-04-2023,West,Gujarat,Surat,Stationery,11,Priya,23,3072.59,33798.49
+30-11-2023,North,Delhi,New Delhi,Stationery,7,Rajendra,37,4813.28,33692.96
+15-02-2023,North,Delhi,Karol Bagh,Furniture,7,Keshav,47,4803.62,33625.34
+07-01-2023,South,Karnataka,Mysuru,Stationery,8,Dinesh,53,4201.69,33613.52
+23-06-2023,West,Gujarat,Vadodara,Electronics,8,Kuldeep,41,4197.64,33581.12
+24-11-2023,West,Gujarat,Surat,Furniture,8,vishal,49,4169.9,33359.2
+03-02-2023,North,Delhi,Dwarka,Clothing,14,Priya,26,2371.85,33205.9
+10-01-2023,West,Maharashtra,Pune,Groceries,8,vishal,41,4146.82,33174.56
+04-08-2023,North,Delhi,Karol Bagh,Groceries,11,Priya,47,3011.73,33129.03
+16-10-2023,West,Maharashtra,Nagpur,Furniture,9,Rajendra,48,3678.86,33109.74
+04-12-2023,South,Tamil Nadu,Madurai,Furniture,7,vishal,37,4720.63,33044.41
+14-02-2023,South,Tamil Nadu,Madurai,Stationery,12,Pinkesh,20,2733.87,32806.44
+30-10-2023,South,Tamil Nadu,Madurai,Electronics,9,vishal,45,3643.26,32789.34
+09-12-2023,North,Delhi,Dwarka,Stationery,12,Kuldeep,28,2726.43,32717.16
+16-01-2023,South,Tamil Nadu,Madurai,Clothing,15,Raghav,42,2174.45,32616.75
+19-01-2023,West,Gujarat,Vadodara,Furniture,15,Priya,26,2167.91,32518.65
+10-10-2023,West,Maharashtra,Nagpur,Clothing,15,Keshav,43,2148.01,32220.15
+12-08-2023,West,Gujarat,Surat,Clothing,13,vishal,24,2475.98,32187.74
+07-12-2024,West,Gujarat,Surat,Clothing,13,Rustam,24,2475.98,32187.74
+23-12-2023,West,Gujarat,Ahmedabad,Stationery,8,Pinkesh,35,4009.51,32076.08
+06-09-2023,West,Gujarat,Vadodara,Clothing,10,Priya,18,3205.57,32055.7
+22-11-2023,North,Delhi,New Delhi,Stationery,9,Rustam,26,3552.02,31968.18
+18-09-2023,North,Delhi,Karol Bagh,Furniture,20,Raghav,24,1592.52,31850.4
+10-04-2023,North,Delhi,Dwarka,Groceries,7,vishal,45,4541.83,31792.81
+05-05-2023,South,Tamil Nadu,Coimbatore,Stationery,7,Rustam,20,4530.81,31715.67
+26-12-2023,West,Gujarat,Vadodara,Clothing,14,Pinkesh,49,2260.17,31642.38
+09-01-2023,West,Gujarat,Ahmedabad,Stationery,7,Rajendra,45,4508.28,31557.96
+12-05-2023,South,Tamil Nadu,Madurai,Electronics,11,Pinkesh,16,2852.22,31374.42
+21-11-2024,South,Tamil Nadu,Madurai,Electronics,11,Dinesh,16,2852.22,31374.42
+11-07-2023,South,Tamil Nadu,Coimbatore,Groceries,10,Priya,43,3122.59,31225.9
+25-11-2023,South,Karnataka,Hubli,Stationery,15,Rajendra,25,2081.27,31219.05
+31-05-2023,West,Gujarat,Vadodara,Clothing,19,Dinesh,55,1641.98,31197.62
+26-09-2023,North,Delhi,New Delhi,Groceries,9,Kuldeep,54,3458,31122
+09-05-2023,North,Delhi,Karol Bagh,Electronics,12,Rajendra,20,2581.09,30973.08
+12-07-2023,West,Maharashtra,Pune,Furniture,16,Pankaj,51,1933.33,30933.28
+29-06-2023,West,Maharashtra,Pune,Stationery,20,Rajendra,21,1536.73,30734.6
+16-08-2023,South,Tamil Nadu,Chennai,Clothing,12,Priya,52,2557.57,30690.84
+05-04-2023,West,Gujarat,Vadodara,Furniture,13,Raghav,22,2351.59,30570.67
+06-07-2023,South,Tamil Nadu,Coimbatore,Groceries,9,Pinkesh,29,3395.02,30555.18
+18-08-2023,West,Gujarat,Vadodara,Groceries,16,Rajendra,31,1907.95,30527.2
+28-11-2023,South,Tamil Nadu,Madurai,Groceries,13,Priya,38,2347.66,30519.58
+19-04-2023,West,Gujarat,Ahmedabad,Stationery,17,Keshav,25,1793.43,30488.31
+01-02-2023,South,Karnataka,Hubli,Stationery,20,vishal,52,1514.3,30286
+27-04-2023,North,Delhi,Karol Bagh,Stationery,13,vishal,32,2327.81,30261.53
+21-02-2023,South,Karnataka,Hubli,Stationery,17,Keshav,16,1777.42,30216.14
+19-12-2023,West,Maharashtra,Mumbai,Clothing,20,Rajendra,18,1507.52,30150.4
+26-07-2023,West,Gujarat,Surat,Furniture,15,Pankaj,33,2006.04,30090.6
+07-03-2023,West,Maharashtra,Pune,Clothing,17,Pinkesh,53,1759.91,29918.47
+18-03-2023,North,Delhi,New Delhi,Clothing,6,Pankaj,26,4984.92,29909.52
+20-02-2023,West,Maharashtra,Nagpur,Stationery,9,Kuldeep,47,3318.1,29862.9
+06-12-2024,West,Maharashtra,Nagpur,Stationery,9,Priya,47,3318.1,29862.9
+02-10-2023,South,Karnataka,Mysuru,Stationery,19,Dinesh,35,1564.94,29733.86
+24-06-2023,North,Delhi,Karol Bagh,Stationery,7,Dinesh,54,4243.95,29707.65
+25-05-2023,West,Maharashtra,Nagpur,Furniture,7,Pinkesh,27,4238.07,29666.49
+08-04-2023,North,Delhi,Dwarka,Groceries,6,Rajendra,48,4939.09,29634.54
+18-02-2023,South,Karnataka,Mysuru,Groceries,15,Rustam,53,1972.75,29591.25
+28-02-2023,West,Gujarat,Vadodara,Stationery,9,Dinesh,41,3276.04,29484.36
+23-11-2023,West,Maharashtra,Nagpur,Clothing,6,Dinesh,41,4908.98,29453.88
+18-09-2023,South,Karnataka,Hubli,Electronics,11,Priya,17,2677.03,29447.33
+27-03-2023,South,Karnataka,Bengaluru,Clothing,6,Kuldeep,45,4894.41,29366.46
+12-05-2023,West,Gujarat,Vadodara,Groceries,12,Raghav,22,2438.68,29264.16
+07-10-2023,South,Karnataka,Bengaluru,Electronics,13,Rajendra,36,2238.96,29106.48
+19-10-2023,West,Maharashtra,Nagpur,Electronics,8,Rustam,51,3615.06,28920.48
+22-11-2023,West,Gujarat,Vadodara,Groceries,9,Jaykesh,35,3209.83,28888.47
+14-12-2023,North,Delhi,Dwarka,Electronics,18,Jaykesh,48,1601.74,28831.32
+11-10-2023,South,Karnataka,Bengaluru,Furniture,9,Pinkesh,40,3193.9,28745.1
+16-04-2023,South,Tamil Nadu,Madurai,Furniture,10,Keshav,29,2861.62,28616.2
+20-10-2023,West,Gujarat,Ahmedabad,Electronics,12,vishal,24,2384.1,28609.2
+19-12-2024,West,Gujarat,Ahmedabad,Electronics,12,Rustam,24,2384.1,28609.2
+28-08-2023,South,Karnataka,Bengaluru,Stationery,7,vishal,29,4083.1,28581.7
+11-09-2023,West,Maharashtra,Nagpur,Clothing,10,Rustam,33,2853.88,28538.8
+26-04-2023,South,Karnataka,Hubli,Clothing,18,Rajendra,47,1576.88,28383.84
+25-08-2023,South,Karnataka,Mysuru,Groceries,8,Kuldeep,41,3547.38,28379.04
+20-02-2023,West,Maharashtra,Nagpur,Clothing,7,Kuldeep,51,4046.34,28324.38
+14-01-2023,North,Delhi,Karol Bagh,Groceries,9,Dinesh,17,3137.87,28240.83
+14-03-2023,West,Gujarat,Surat,Electronics,13,Jaykesh,54,2163.4,28124.2
+06-01-2023,North,Delhi,Dwarka,Stationery,6,Dinesh,36,4673.01,28038.06
+10-08-2023,North,Delhi,Dwarka,Clothing,17,Jaykesh,55,1645.97,27981.49
+27-01-2023,North,Delhi,Karol Bagh,Furniture,9,Dinesh,40,3095.35,27858.15
+16-08-2023,West,Gujarat,Surat,Furniture,11,Pinkesh,26,2522.63,27748.93
+25-05-2023,South,Tamil Nadu,Madurai,Stationery,14,Pankaj,54,1972.22,27611.08
+30-12-2023,West,Maharashtra,Mumbai,Clothing,18,Pinkesh,31,1533.77,27607.86
+01-05-2023,West,Maharashtra,Pune,Clothing,7,Keshav,23,3931.73,27522.11
+10-01-2023,South,Tamil Nadu,Madurai,Electronics,11,Dinesh,28,2491.8,27409.8
+08-04-2023,West,Gujarat,Vadodara,Electronics,6,Priya,26,4541.92,27251.52
+17-02-2023,West,Gujarat,Surat,Furniture,20,Keshav,50,1353.54,27070.8
+16-09-2023,West,Maharashtra,Nagpur,Groceries,8,Rustam,35,3372.86,26982.88
+24-09-2023,West,Maharashtra,Mumbai,Groceries,10,Jaykesh,43,2691.21,26912.1
+08-03-2023,North,Delhi,New Delhi,Stationery,19,Keshav,26,1414.78,26880.82
+09-09-2023,West,Maharashtra,Nagpur,Electronics,15,Rustam,34,1790.03,26850.45
+03-01-2023,West,Gujarat,Vadodara,Clothing,12,Pankaj,38,2232.49,26789.88
+20-01-2023,South,Tamil Nadu,Coimbatore,Stationery,11,vishal,23,2426.48,26691.28
+14-03-2023,South,Karnataka,Mysuru,Furniture,19,Rajendra,18,1398.49,26571.31
+20-10-2023,West,Gujarat,Vadodara,Stationery,12,Pankaj,22,2208.49,26501.88
+13-02-2023,South,Karnataka,Hubli,Furniture,20,Raghav,30,1310.37,26207.4
+15-03-2023,North,Delhi,Karol Bagh,Groceries,6,Rajendra,34,4364.67,26188.02
+30-06-2023,North,Delhi,Dwarka,Furniture,17,Keshav,23,1538.4,26152.8
+21-10-2023,South,Karnataka,Mysuru,Groceries,13,Rajendra,30,1976.63,25696.19
+01-05-2023,South,Karnataka,Hubli,Clothing,15,Pankaj,33,1712.05,25680.75
+06-07-2023,West,Gujarat,Surat,Electronics,6,Raghav,23,4265.86,25595.16
+19-05-2023,North,Delhi,New Delhi,Stationery,13,Rajendra,22,1965.63,25553.19
+23-11-2024,North,Delhi,New Delhi,Stationery,13,Rajendra,22,1965.63,25553.19
+11-11-2023,South,Karnataka,Bengaluru,Groceries,10,Pankaj,21,2539.68,25396.8
+21-02-2023,North,Delhi,New Delhi,Groceries,6,Pankaj,36,4219.61,25317.66
+24-07-2023,West,Maharashtra,Pune,Groceries,16,Keshav,28,1575.89,25214.24
+26-11-2023,West,Maharashtra,Nagpur,Electronics,20,Jaykesh,43,1260.25,25205
+29-12-2023,South,Karnataka,Hubli,Clothing,13,Kuldeep,31,1929.55,25084.15
+27-10-2023,North,Delhi,New Delhi,Clothing,5,Pankaj,50,4993.87,24969.35
+27-11-2023,South,Karnataka,Mysuru,Clothing,8,Rajendra,55,3120.6,24964.8
+06-12-2023,South,Tamil Nadu,Coimbatore,Stationery,5,Keshav,51,4987.84,24939.2
+13-03-2023,West,Maharashtra,Mumbai,Stationery,5,Dinesh,21,4987.7,24938.5
+30-11-2024,West,Maharashtra,Mumbai,Stationery,5,Priya,21,4987.7,24938.5
+09-10-2023,South,Karnataka,Hubli,Clothing,9,Dinesh,48,2770.27,24932.43
+11-08-2023,South,Tamil Nadu,Madurai,Clothing,19,vishal,31,1309.65,24883.35
+05-07-2023,South,Tamil Nadu,Coimbatore,Clothing,14,Raghav,29,1770.36,24785.04
+08-09-2023,West,Gujarat,Ahmedabad,Furniture,18,Pankaj,30,1376.52,24777.36
+29-01-2023,West,Maharashtra,Nagpur,Electronics,17,Dinesh,38,1457.07,24770.19
+27-07-2023,North,Delhi,New Delhi,Clothing,6,Pinkesh,26,4100.98,24605.88
+11-03-2023,West,Maharashtra,Mumbai,Clothing,20,Kuldeep,19,1222.92,24458.4
+11-04-2023,West,Gujarat,Vadodara,Groceries,6,Rajendra,52,4042.16,24252.96
+19-02-2023,West,Gujarat,Ahmedabad,Groceries,16,Raghav,49,1514.31,24228.96
+18-02-2023,West,Gujarat,Ahmedabad,Stationery,9,Raghav,35,2677.7,24099.3
+29-12-2023,West,Gujarat,Surat,Stationery,14,Jaykesh,24,1720,24080
+11-09-2023,West,Maharashtra,Pune,Groceries,9,Pankaj,24,2660.79,23947.11
+29-10-2023,North,Delhi,Karol Bagh,Clothing,7,vishal,24,3415.15,23906.05
+30-11-2023,South,Karnataka,Hubli,Furniture,7,Dinesh,20,3402.48,23817.36
+08-03-2023,West,Maharashtra,Nagpur,Groceries,14,Pinkesh,38,1694.59,23724.26
+18-11-2023,South,Tamil Nadu,Madurai,Stationery,16,Priya,54,1480.7,23691.2
+03-09-2023,North,Delhi,New Delhi,Stationery,12,Priya,39,1973.14,23677.68
+03-07-2023,West,Maharashtra,Pune,Stationery,5,Keshav,21,4716.38,23581.9
+02-03-2023,West,Maharashtra,Nagpur,Groceries,18,Dinesh,31,1306.19,23511.42
+26-08-2023,South,Tamil Nadu,Chennai,Furniture,10,Jaykesh,34,2349.24,23492.4
+18-09-2023,South,Tamil Nadu,Madurai,Groceries,12,Rajendra,27,1947.14,23365.68
+03-04-2023,South,Karnataka,Hubli,Furniture,14,Priya,35,1658.39,23217.46
+08-11-2023,North,Delhi,New Delhi,Electronics,15,Rustam,39,1543.85,23157.75
+16-05-2023,South,Tamil Nadu,Chennai,Stationery,5,Rajendra,25,4619.16,23095.8
+13-12-2023,West,Maharashtra,Mumbai,Clothing,11,Pankaj,47,2097.48,23072.28
+01-02-2023,West,Gujarat,Ahmedabad,Furniture,17,Rustam,24,1356.25,23056.25
+25-12-2023,South,Tamil Nadu,Chennai,Electronics,18,vishal,23,1279.41,23029.38
+19-06-2023,West,Gujarat,Surat,Stationery,13,Rustam,40,1767.86,22982.18
+16-04-2023,West,Gujarat,Vadodara,Groceries,17,Pankaj,21,1340.98,22796.66
+26-01-2023,West,Gujarat,Ahmedabad,Electronics,13,vishal,51,1753.48,22795.24
+02-03-2023,West,Gujarat,Ahmedabad,Groceries,19,vishal,44,1199.24,22785.56
+27-11-2023,West,Maharashtra,Pune,Furniture,17,Rajendra,47,1333.71,22673.07
+17-12-2024,West,Maharashtra,Pune,Furniture,17,Rajendra,47,1333.71,22673.07
+26-09-2023,South,Tamil Nadu,Chennai,Groceries,5,Raghav,34,4499.88,22499.4
+31-10-2023,North,Delhi,New Delhi,Furniture,14,Priya,26,1598.93,22385.02
+15-10-2023,West,Maharashtra,Pune,Clothing,17,Dinesh,19,1307.24,22223.08
+15-01-2023,West,Maharashtra,Mumbai,Stationery,7,Pankaj,33,3163.37,22143.59
+21-12-2024,West,Maharashtra,Mumbai,Stationery,7,Dinesh,33,3163.37,22143.59
+17-01-2023,North,Delhi,New Delhi,Furniture,6,Rajendra,30,3671.84,22031.04
+23-08-2023,West,Maharashtra,Mumbai,Groceries,20,Pankaj,45,1100.38,22007.6
+06-06-2023,South,Karnataka,Mysuru,Clothing,9,Keshav,52,2438.99,21950.91
+22-08-2023,West,Maharashtra,Nagpur,Furniture,5,vishal,24,4386.2,21931
+12-07-2023,South,Tamil Nadu,Madurai,Electronics,9,Raghav,40,2427.88,21850.92
+10-03-2023,South,Karnataka,Bengaluru,Stationery,5,Kuldeep,16,4300.7,21503.5
+15-01-2023,South,Karnataka,Hubli,Clothing,7,Kuldeep,16,3070.09,21490.63
+17-09-2023,North,Delhi,New Delhi,Clothing,7,Raghav,28,3063.53,21444.71
+31-12-2023,South,Tamil Nadu,Coimbatore,Electronics,13,Rustam,40,1647.87,21422.31
+26-07-2023,South,Tamil Nadu,Coimbatore,Clothing,5,Jaykesh,38,4281.15,21405.75
+11-04-2023,West,Maharashtra,Mumbai,Stationery,9,Rajendra,53,2376.12,21385.08
+16-12-2023,South,Karnataka,Hubli,Furniture,7,Raghav,24,3052.99,21370.93
+09-07-2023,West,Maharashtra,Pune,Electronics,18,Jaykesh,23,1177.8,21200.4
+20-01-2023,South,Tamil Nadu,Coimbatore,Furniture,14,Dinesh,38,1507.19,21100.66
+14-08-2023,North,Delhi,Dwarka,Clothing,8,Kuldeep,45,2628.31,21026.48
+12-08-2023,West,Maharashtra,Pune,Furniture,5,Kuldeep,29,4198.97,20994.85
+23-11-2023,South,Karnataka,Hubli,Groceries,12,Rajendra,30,1748.6,20983.2
+04-12-2023,South,Karnataka,Mysuru,Furniture,11,Dinesh,47,1905.7,20962.7
+02-03-2023,West,Gujarat,Ahmedabad,Clothing,18,Pinkesh,48,1164.29,20957.22
+09-04-2023,West,Gujarat,Vadodara,Clothing,5,Jaykesh,16,4182.07,20910.35
+10-07-2023,North,Delhi,New Delhi,Electronics,8,Rajendra,22,2606.36,20850.88
+03-09-2023,North,Delhi,Dwarka,Electronics,5,Pankaj,33,4165.41,20827.05
+21-01-2023,South,Tamil Nadu,Madurai,Stationery,14,Kuldeep,40,1487.12,20819.68
+27-04-2023,South,Karnataka,Mysuru,Stationery,18,vishal,38,1156.17,20811.06
+03-04-2023,South,Karnataka,Hubli,Groceries,6,vishal,40,3466.7,20800.2
+15-03-2023,North,Delhi,Karol Bagh,Stationery,19,vishal,20,1093.89,20783.91
+05-04-2023,South,Karnataka,Hubli,Groceries,6,Pankaj,32,3457.43,20744.58
+20-08-2023,West,Gujarat,Surat,Groceries,17,Keshav,17,1217.48,20697.16
+18-04-2023,South,Karnataka,Mysuru,Stationery,6,vishal,53,3439.83,20638.98
+26-03-2023,West,Gujarat,Ahmedabad,Furniture,18,Priya,54,1137.05,20466.9
+16-01-2023,South,Tamil Nadu,Chennai,Stationery,18,Rustam,52,1134.88,20427.84
+05-02-2023,West,Maharashtra,Pune,Stationery,9,Jaykesh,25,2267.72,20409.48
+26-10-2023,South,Karnataka,Bengaluru,Furniture,18,Rajendra,50,1132.04,20376.72
+03-10-2023,South,Karnataka,Mysuru,Electronics,17,Pinkesh,32,1194.33,20303.61
+23-02-2023,West,Gujarat,Surat,Groceries,19,Keshav,20,1067.62,20284.78
+31-03-2023,North,Delhi,Karol Bagh,Stationery,10,Rajendra,35,2027.97,20279.7
+06-08-2023,West,Maharashtra,Mumbai,Stationery,6,Pankaj,29,3363.77,20182.62
+14-07-2023,West,Maharashtra,Nagpur,Stationery,5,Keshav,45,4035.07,20175.35
+02-02-2023,West,Gujarat,Surat,Electronics,6,Pankaj,25,3350.51,20103.06
+18-09-2023,North,Delhi,Dwarka,Electronics,12,Rajendra,39,1673.01,20076.12
+16-09-2023,South,Tamil Nadu,Coimbatore,Clothing,4,Dinesh,38,4961.01,19844.04
+15-06-2023,West,Gujarat,Vadodara,Groceries,10,Dinesh,30,1979.32,19793.2
+30-07-2023,West,Gujarat,Surat,Electronics,11,Pankaj,19,1798.54,19783.94
+13-09-2023,West,Maharashtra,Nagpur,Clothing,6,Keshav,36,3279.45,19676.7
+08-02-2023,South,Karnataka,Bengaluru,Stationery,6,Kuldeep,52,3277.95,19667.7
+25-02-2023,West,Maharashtra,Mumbai,Clothing,5,Rustam,26,3926.26,19631.3
+21-02-2023,South,Tamil Nadu,Coimbatore,Groceries,4,Pankaj,31,4878.16,19512.64
+23-11-2023,North,Delhi,Dwarka,Furniture,5,Jaykesh,50,3900.9,19504.5
+03-05-2023,South,Karnataka,Hubli,Groceries,5,Rajendra,32,3898.88,19494.4
+06-01-2023,South,Karnataka,Mysuru,Groceries,18,Keshav,28,1073,19314
+18-06-2023,West,Gujarat,Vadodara,Clothing,5,Raghav,25,3860.73,19303.65
+01-12-2024,West,Gujarat,Vadodara,Clothing,5,Rustam,25,3860.73,19303.65
+08-02-2023,South,Tamil Nadu,Chennai,Groceries,12,Raghav,31,1608.11,19297.32
+22-04-2023,South,Tamil Nadu,Coimbatore,Electronics,4,Dinesh,24,4782.74,19130.96
+14-07-2023,North,Delhi,New Delhi,Electronics,16,Pinkesh,54,1192.38,19078.08
+15-04-2023,South,Tamil Nadu,Madurai,Furniture,13,Pinkesh,39,1466.66,19066.58
+15-11-2023,North,Delhi,Karol Bagh,Clothing,6,Pankaj,36,3175.44,19052.64
+18-09-2023,South,Tamil Nadu,Madurai,Furniture,7,Jaykesh,50,2706.33,18944.31
+10-04-2023,South,Tamil Nadu,Coimbatore,Clothing,5,Rustam,28,3786.28,18931.4
+20-09-2023,South,Karnataka,Mysuru,Groceries,15,Rustam,21,1259.16,18887.4
+03-02-2023,West,Gujarat,Surat,Groceries,5,Priya,29,3770.46,18852.3
+10-04-2023,West,Maharashtra,Mumbai,Electronics,11,Pankaj,53,1708.99,18798.89
+26-09-2023,West,Gujarat,Vadodara,Clothing,4,vishal,17,4697.07,18788.28
+25-03-2023,North,Delhi,Dwarka,Clothing,6,Keshav,26,3125.31,18751.86
+04-07-2023,South,Karnataka,Bengaluru,Groceries,8,Raghav,23,2342.02,18736.16
+13-12-2024,South,Karnataka,Bengaluru,Groceries,8,Rustam,23,2342.02,18736.16
+04-06-2023,South,Tamil Nadu,Madurai,Clothing,11,Priya,42,1703.12,18734.32
+01-02-2023,South,Karnataka,Bengaluru,Groceries,6,Rajendra,19,3116.12,18696.72
+11-03-2023,West,Maharashtra,Nagpur,Clothing,5,Priya,40,3732.82,18664.1
+16-11-2024,West,Maharashtra,Nagpur,Clothing,5,Priya,40,3732.82,18664.1
+13-06-2023,South,Karnataka,Mysuru,Stationery,5,Raghav,16,3701.17,18505.85
+06-06-2023,West,Gujarat,Vadodara,Furniture,6,Jaykesh,55,3051.1,18306.6
+21-04-2023,South,Karnataka,Hubli,Stationery,17,Rustam,49,1071.3,18212.1
+12-01-2023,West,Gujarat,Vadodara,Stationery,5,vishal,25,3631.01,18155.05
+14-01-2023,South,Tamil Nadu,Chennai,Electronics,14,Raghav,16,1293.27,18105.78
+15-11-2023,West,Gujarat,Surat,Electronics,5,Dinesh,55,3619.58,18097.9
+20-08-2023,South,Karnataka,Mysuru,Groceries,7,vishal,44,2560.5,17923.5
+26-12-2023,South,Tamil Nadu,Coimbatore,Furniture,7,Jaykesh,37,2557.77,17904.39
+05-02-2023,South,Tamil Nadu,Coimbatore,Stationery,14,Rajendra,50,1273.84,17833.76
+26-10-2023,West,Maharashtra,Mumbai,Stationery,4,Rajendra,18,4386.54,17546.16
+30-05-2023,West,Maharashtra,Pune,Furniture,4,Dinesh,32,4368.46,17473.84
+07-02-2023,South,Karnataka,Bengaluru,Stationery,4,Priya,51,4337.09,17348.36
+06-10-2023,West,Gujarat,Vadodara,Groceries,4,Keshav,50,4317.2,17268.8
+23-02-2023,North,Delhi,New Delhi,Furniture,5,Raghav,47,3404.87,17024.35
+23-12-2023,West,Gujarat,Ahmedabad,Electronics,14,Jaykesh,18,1215.62,17018.68
+23-02-2023,West,Maharashtra,Nagpur,Furniture,4,vishal,28,4245.67,16982.68
+06-02-2023,South,Karnataka,Bengaluru,Stationery,8,Rustam,46,2112.66,16901.28
+29-08-2023,West,Maharashtra,Nagpur,Groceries,5,Rajendra,37,3342.48,16712.4
+30-10-2023,West,Maharashtra,Mumbai,Electronics,15,Rajendra,49,1113.76,16706.4
+10-09-2023,West,Maharashtra,Nagpur,Clothing,7,Priya,39,2384.51,16691.57
+06-02-2023,North,Delhi,Karol Bagh,Clothing,6,Kuldeep,26,2772.51,16635.06
+12-06-2023,North,Delhi,New Delhi,Furniture,12,Priya,16,1377.41,16528.92
+10-12-2024,North,Delhi,New Delhi,Furniture,12,Priya,16,1377.41,16528.92
+27-03-2023,West,Gujarat,Surat,Stationery,15,Pinkesh,55,1098.31,16474.65
+30-10-2023,West,Maharashtra,Mumbai,Clothing,5,Pankaj,19,3288.58,16442.9
+23-10-2023,South,Tamil Nadu,Madurai,Clothing,18,Rustam,23,913.13,16436.34
+07-03-2023,West,Gujarat,Vadodara,Clothing,16,Rajendra,50,1025.8,16412.8
+11-11-2023,West,Gujarat,Surat,Furniture,16,Raghav,28,1023.78,16380.48
+03-11-2023,West,Maharashtra,Nagpur,Stationery,5,vishal,25,3259.3,16296.5
+16-03-2023,South,Tamil Nadu,Chennai,Furniture,9,Priya,32,1805.32,16247.88
+30-09-2023,West,Maharashtra,Mumbai,Stationery,12,Rustam,33,1352.89,16234.68
+08-11-2023,South,Tamil Nadu,Chennai,Furniture,4,Raghav,45,4058.48,16233.92
+19-01-2023,North,Delhi,New Delhi,Electronics,8,Jaykesh,41,2019.04,16152.32
+22-05-2023,South,Tamil Nadu,Madurai,Furniture,17,Rajendra,47,947.7,16110.9
+05-12-2023,West,Maharashtra,Nagpur,Clothing,4,Pinkesh,51,4020.65,16082.6
+27-07-2023,West,Maharashtra,Nagpur,Electronics,12,Rajendra,23,1333.81,16005.72
+21-04-2023,North,Delhi,Dwarka,Clothing,5,Pinkesh,21,3181.48,15907.4
+19-09-2023,South,Karnataka,Hubli,Furniture,18,Dinesh,35,883.32,15899.76
+02-08-2023,South,Tamil Nadu,Madurai,Electronics,13,Keshav,55,1220.76,15869.88
+24-03-2023,West,Gujarat,Surat,Groceries,11,Pankaj,25,1435.18,15786.98
+21-07-2023,West,Maharashtra,Mumbai,Clothing,5,Kuldeep,38,3156.9,15784.5
+09-04-2023,South,Karnataka,Bengaluru,Stationery,8,Dinesh,41,1968.58,15748.64
+01-03-2023,West,Gujarat,Vadodara,Electronics,6,Rajendra,44,2609.65,15657.9
+06-08-2023,North,Delhi,Karol Bagh,Electronics,12,Jaykesh,16,1304.81,15657.72
+04-04-2023,North,Delhi,New Delhi,Clothing,14,vishal,55,1116.79,15635.06
+03-09-2023,North,Delhi,Dwarka,Stationery,11,Pankaj,28,1418.67,15605.37
+04-10-2023,North,Delhi,Dwarka,Groceries,7,Raghav,33,2227.07,15589.49
+21-11-2023,West,Maharashtra,Nagpur,Clothing,13,Rajendra,30,1198.5,15580.5
+17-07-2023,South,Karnataka,Bengaluru,Furniture,16,Rajendra,25,971.39,15542.24
+30-10-2023,South,Karnataka,Hubli,Furniture,5,Rajendra,32,3103.12,15515.6
+05-09-2023,South,Tamil Nadu,Coimbatore,Electronics,20,Rajendra,44,774.07,15481.4
+08-08-2023,West,Gujarat,Vadodara,Groceries,8,Jaykesh,46,1927.88,15423.04
+30-06-2023,West,Gujarat,Ahmedabad,Electronics,8,Pankaj,20,1916.14,15329.12
+27-08-2023,North,Delhi,Karol Bagh,Furniture,14,Kuldeep,24,1094.14,15317.96
+19-12-2023,South,Tamil Nadu,Madurai,Groceries,11,Raghav,28,1389.59,15285.49
+27-03-2023,North,Delhi,New Delhi,Stationery,9,Keshav,41,1667.06,15003.54
+03-07-2023,South,Tamil Nadu,Madurai,Clothing,3,Rajendra,32,4999.69,14999.07
+08-09-2023,West,Maharashtra,Mumbai,Electronics,4,Rustam,44,3725.78,14903.12
+14-12-2023,North,Delhi,New Delhi,Furniture,5,Raghav,36,2957.2,14786
+05-02-2023,South,Tamil Nadu,Coimbatore,Clothing,6,Raghav,25,2463.68,14782.08
+19-11-2024,South,Tamil Nadu,Coimbatore,Clothing,6,Rustam,25,2463.68,14782.08
+06-03-2023,West,Gujarat,Ahmedabad,Furniture,18,Pankaj,38,814.69,14664.42
+31-03-2023,West,Gujarat,Surat,Stationery,3,Pankaj,18,4888.03,14664.09
+04-08-2023,South,Karnataka,Bengaluru,Furniture,3,Jaykesh,38,4876.51,14629.53
+03-10-2023,West,Maharashtra,Mumbai,Stationery,11,Jaykesh,48,1316.18,14477.98
+02-07-2023,South,Karnataka,Hubli,Furniture,20,Rajendra,39,722.13,14442.6
+09-03-2023,West,Gujarat,Surat,Furniture,15,Pankaj,35,961.23,14418.45
+14-12-2023,South,Karnataka,Hubli,Clothing,8,Jaykesh,19,1794.45,14355.6
+21-10-2023,South,Karnataka,Bengaluru,Groceries,7,Pinkesh,40,2048.48,14339.36
+20-06-2023,West,Gujarat,Ahmedabad,Electronics,4,Kuldeep,50,3561.12,14244.48
+31-03-2023,North,Delhi,New Delhi,Clothing,5,vishal,19,2846.34,14231.7
+07-07-2023,South,Karnataka,Mysuru,Stationery,7,Jaykesh,44,2016.03,14112.21
+08-01-2023,West,Gujarat,Surat,Stationery,11,Priya,44,1278.32,14061.52
+03-01-2023,West,Gujarat,Surat,Clothing,12,vishal,55,1169.84,14038.08
+30-01-2023,West,Gujarat,Surat,Clothing,3,Jaykesh,39,4678.38,14035.14
+18-03-2023,South,Tamil Nadu,Madurai,Clothing,16,Rajendra,41,874.99,13999.84
+30-03-2023,North,Delhi,New Delhi,Electronics,3,Kuldeep,16,4608.89,13826.67
+08-09-2023,West,Gujarat,Surat,Stationery,15,Kuldeep,38,916.75,13751.25
+12-04-2023,West,Gujarat,Surat,Furniture,19,Rustam,46,713.8,13562.2
+14-09-2023,West,Gujarat,Ahmedabad,Groceries,4,Raghav,39,3377.27,13509.08
+18-03-2023,North,Delhi,Dwarka,Clothing,5,vishal,19,2681.34,13406.7
+08-02-2023,South,Karnataka,Hubli,Groceries,13,Dinesh,19,1030.9,13401.7
+24-12-2023,South,Tamil Nadu,Madurai,Clothing,8,Kuldeep,42,1670.31,13362.48
+24-04-2023,West,Maharashtra,Nagpur,Furniture,7,Raghav,40,1905.14,13335.98
+31-07-2023,West,Gujarat,Vadodara,Furniture,14,Jaykesh,20,948.05,13272.7
+20-02-2023,West,Maharashtra,Nagpur,Stationery,9,Pankaj,35,1474.56,13271.04
+28-04-2023,South,Karnataka,Hubli,Electronics,12,Pinkesh,47,1104.74,13256.88
+12-09-2023,South,Karnataka,Bengaluru,Groceries,6,Kuldeep,51,2207.64,13245.84
+30-08-2023,South,Tamil Nadu,Madurai,Furniture,3,Dinesh,50,4363.3,13089.9
+27-04-2023,West,Gujarat,Surat,Stationery,15,vishal,49,866.62,12999.3
+07-04-2023,South,Karnataka,Mysuru,Clothing,7,Priya,55,1849.17,12944.19
+11-03-2023,West,Maharashtra,Pune,Groceries,5,Rajendra,40,2583.81,12919.05
+17-04-2023,North,Delhi,Karol Bagh,Clothing,13,Jaykesh,44,993.43,12914.59
+20-07-2023,North,Delhi,New Delhi,Furniture,17,Dinesh,42,758.19,12889.23
+04-09-2023,South,Karnataka,Mysuru,Electronics,11,Keshav,29,1169.3,12862.3
+10-12-2023,South,Tamil Nadu,Madurai,Clothing,8,vishal,54,1595.76,12766.08
+24-08-2023,West,Gujarat,Ahmedabad,Electronics,16,Dinesh,26,796.69,12747.04
+06-01-2023,South,Karnataka,Hubli,Electronics,12,Pankaj,17,1061.49,12737.88
+06-07-2023,West,Maharashtra,Nagpur,Stationery,5,Jaykesh,52,2545.93,12729.65
+27-11-2023,South,Karnataka,Bengaluru,Groceries,16,Priya,25,795.17,12722.72
+10-03-2023,North,Delhi,New Delhi,Electronics,3,Rajendra,22,4229.84,12689.52
+26-11-2024,North,Delhi,New Delhi,Electronics,3,Rustam,22,4229.84,12689.52
+11-02-2023,West,Gujarat,Vadodara,Stationery,20,Keshav,41,633.87,12677.4
+11-11-2023,West,Maharashtra,Mumbai,Stationery,3,Rajendra,43,4210.77,12632.31
+11-11-2024,West,Maharashtra,Mumbai,Stationery,3,Rajendra,43,4210.77,12632.31
+23-09-2023,West,Maharashtra,Nagpur,Clothing,7,Rajendra,18,1801.74,12612.18
+10-04-2023,North,Delhi,New Delhi,Electronics,3,Keshav,51,4201.09,12603.27
+14-09-2023,West,Gujarat,Surat,Stationery,3,Kuldeep,20,4195.66,12586.98
+31-07-2023,South,Karnataka,Bengaluru,Clothing,13,Kuldeep,20,968.18,12586.34
+09-05-2023,South,Karnataka,Hubli,Electronics,18,Rustam,27,696.83,12542.94
+12-06-2023,North,Delhi,Dwarka,Groceries,3,Keshav,26,4171.91,12515.73
+17-03-2023,South,Karnataka,Bengaluru,Stationery,7,Rajendra,36,1774.74,12423.18
+30-11-2023,South,Tamil Nadu,Madurai,Stationery,9,Rajendra,41,1378.65,12407.85
+14-11-2024,South,Tamil Nadu,Madurai,Stationery,9,Rustam,41,1378.65,12407.85
+24-11-2023,South,Tamil Nadu,Coimbatore,Furniture,5,Rajendra,29,2481.22,12406.1
+01-03-2023,South,Tamil Nadu,Chennai,Electronics,3,Rajendra,45,4132.17,12396.51
+08-12-2024,South,Tamil Nadu,Chennai,Electronics,3,Rustam,45,4132.17,12396.51
+22-07-2023,North,Delhi,New Delhi,Clothing,5,Kuldeep,31,2463.95,12319.75
+15-03-2023,West,Gujarat,Ahmedabad,Electronics,3,Rajendra,54,4083.59,12250.77
+30-09-2023,South,Karnataka,Hubli,Electronics,18,Rajendra,23,678.76,12217.68
+13-05-2023,West,Gujarat,Vadodara,Clothing,3,Keshav,20,4059.76,12179.28
+14-11-2023,North,Delhi,New Delhi,Furniture,5,Rajendra,32,2423.83,12119.15
+02-04-2023,North,Delhi,Dwarka,Groceries,20,Dinesh,43,605.86,12117.2
+09-11-2023,West,Gujarat,Vadodara,Electronics,7,Jaykesh,35,1729.24,12104.68
+09-07-2023,South,Tamil Nadu,Chennai,Electronics,4,Pankaj,49,3022.72,12090.88
+04-03-2023,South,Karnataka,Bengaluru,Clothing,19,vishal,44,636.2,12087.8
+30-06-2023,South,Karnataka,Bengaluru,Furniture,20,Kuldeep,50,603.49,12069.8
+22-02-2023,North,Delhi,Dwarka,Electronics,3,Rustam,22,4020.68,12062.04
+20-12-2023,West,Maharashtra,Pune,Stationery,7,Raghav,31,1711.81,11982.67
+02-07-2023,North,Delhi,Karol Bagh,Clothing,4,Keshav,47,2984.27,11937.08
+27-06-2023,West,Gujarat,Vadodara,Groceries,6,Dinesh,32,1985.97,11915.82
+17-07-2023,North,Delhi,Dwarka,Stationery,4,Pinkesh,37,2978.87,11915.48
+28-04-2023,West,Maharashtra,Nagpur,Groceries,12,Priya,26,992.16,11905.92
+05-01-2023,South,Karnataka,Bengaluru,Furniture,13,Pinkesh,54,914.82,11892.66
+06-07-2023,West,Gujarat,Ahmedabad,Groceries,8,Raghav,33,1484.56,11876.48
+30-03-2023,South,Tamil Nadu,Chennai,Stationery,6,Keshav,22,1979,11874
+12-08-2023,West,Maharashtra,Mumbai,Furniture,3,Pankaj,25,3957.38,11872.14
+20-02-2023,South,Tamil Nadu,Madurai,Clothing,8,Jaykesh,17,1481.04,11848.32
+28-03-2023,North,Delhi,Dwarka,Electronics,11,Jaykesh,47,1069.39,11763.29
+24-12-2023,South,Tamil Nadu,Coimbatore,Furniture,9,Rustam,47,1302.45,11722.05
+22-09-2023,North,Delhi,Karol Bagh,Electronics,11,Rajendra,53,1065.64,11722.04
+04-11-2023,West,Gujarat,Surat,Stationery,18,Raghav,21,651.22,11721.96
+08-08-2023,West,Maharashtra,Pune,Clothing,8,Rajendra,42,1461.31,11690.48
+05-12-2024,West,Maharashtra,Pune,Clothing,8,Rajendra,42,1461.31,11690.48
+08-05-2023,West,Gujarat,Ahmedabad,Electronics,3,Jaykesh,35,3861.09,11583.27
+18-02-2023,North,Delhi,New Delhi,Clothing,19,Raghav,53,609.63,11582.97
+27-07-2023,West,Maharashtra,Nagpur,Electronics,9,Rajendra,50,1280.74,11526.66
+30-05-2023,South,Tamil Nadu,Madurai,Stationery,4,Rustam,23,2830.6,11322.4
+23-01-2023,West,Maharashtra,Mumbai,Furniture,8,Keshav,32,1412.48,11299.84
+04-09-2023,South,Tamil Nadu,Coimbatore,Furniture,8,Rustam,22,1410.46,11283.68
+23-05-2023,West,Gujarat,Vadodara,Groceries,16,Rajendra,44,704.88,11278.08
+15-11-2023,North,Delhi,Karol Bagh,Groceries,13,Jaykesh,37,864.09,11233.17
+28-07-2023,South,Karnataka,Bengaluru,Furniture,6,Raghav,44,1872.18,11233.08
+24-05-2023,West,Maharashtra,Nagpur,Furniture,4,Priya,43,2792.23,11168.92
+07-06-2023,South,Tamil Nadu,Chennai,Clothing,13,Rajendra,36,857.86,11152.18
+24-04-2023,South,Karnataka,Mysuru,Clothing,7,Jaykesh,52,1590.73,11135.11
+12-04-2023,West,Maharashtra,Nagpur,Electronics,7,Rustam,31,1576.4,11034.8
+16-07-2023,West,Maharashtra,Pune,Stationery,8,Rajendra,44,1371.28,10970.24
+10-08-2023,South,Tamil Nadu,Madurai,Groceries,4,Kuldeep,18,2740.14,10960.56
+18-07-2023,South,Karnataka,Hubli,Furniture,8,Rajendra,33,1366.18,10929.44
+18-12-2023,West,Gujarat,Surat,Stationery,5,Keshav,53,2162.08,10810.4
+31-03-2023,South,Tamil Nadu,Madurai,Furniture,4,Rajendra,17,2701.93,10807.72
+27-06-2023,South,Tamil Nadu,Chennai,Stationery,14,Keshav,19,771.61,10802.54
+23-05-2023,South,Karnataka,Mysuru,Furniture,4,Jaykesh,33,2689.7,10758.8
+01-08-2023,South,Tamil Nadu,Madurai,Furniture,11,Jaykesh,55,968.17,10649.87
+22-01-2023,South,Tamil Nadu,Coimbatore,Clothing,13,Rajendra,50,818.58,10641.54
+09-10-2023,South,Tamil Nadu,Chennai,Furniture,3,Pinkesh,23,3533.3,10599.9
+27-01-2023,North,Delhi,Karol Bagh,Furniture,8,Rajendra,22,1314.71,10517.68
+05-11-2023,North,Delhi,Karol Bagh,Stationery,7,Dinesh,22,1501.06,10507.42
+09-03-2023,West,Gujarat,Ahmedabad,Groceries,7,Raghav,40,1500.87,10506.09
+25-01-2023,South,Karnataka,Hubli,Electronics,4,Rajendra,55,2625.31,10501.24
+29-12-2023,North,Delhi,New Delhi,Stationery,9,Pankaj,31,1161.02,10449.18
+15-11-2024,North,Delhi,New Delhi,Stationery,9,Dinesh,31,1161.02,10449.18
+23-12-2023,North,Delhi,Karol Bagh,Furniture,13,Pinkesh,22,802.18,10428.34
+06-05-2023,South,Tamil Nadu,Coimbatore,Groceries,19,Kuldeep,27,548.7,10425.3
+02-12-2023,South,Karnataka,Hubli,Clothing,3,Priya,38,3445.08,10335.24
+08-08-2023,West,Maharashtra,Mumbai,Electronics,6,Rustam,25,1701.04,10206.24
+12-11-2023,West,Maharashtra,Mumbai,Electronics,7,Jaykesh,37,1458,10206
+27-12-2023,West,Maharashtra,Pune,Stationery,11,Kuldeep,16,923.59,10159.49
+30-08-2023,South,Tamil Nadu,Coimbatore,Groceries,11,Rustam,29,920.95,10130.45
+05-08-2023,North,Delhi,New Delhi,Clothing,3,Pinkesh,23,3366.66,10099.98
+03-02-2023,West,Gujarat,Ahmedabad,Furniture,4,Rajendra,25,2514.88,10059.52
+13-10-2023,South,Karnataka,Mysuru,Clothing,12,Pankaj,54,835.83,10029.96
+09-12-2024,South,Karnataka,Mysuru,Clothing,12,Dinesh,54,835.83,10029.96
+01-07-2023,South,Tamil Nadu,Coimbatore,Furniture,2,Priya,34,4997.23,9994.46
+02-08-2023,West,Gujarat,Vadodara,Clothing,5,Keshav,55,1997.76,9988.8
+07-03-2023,South,Karnataka,Mysuru,Groceries,5,Keshav,28,1991.64,9958.2
+25-03-2023,South,Tamil Nadu,Coimbatore,Groceries,17,Rustam,47,578.88,9840.96
+01-03-2023,South,Karnataka,Bengaluru,Clothing,20,Rajendra,18,490.36,9807.2
+30-01-2023,West,Maharashtra,Pune,Electronics,20,Rustam,26,486.25,9725
+06-05-2023,South,Tamil Nadu,Coimbatore,Clothing,4,Kuldeep,51,2425.52,9702.08
+19-10-2023,South,Tamil Nadu,Madurai,Stationery,18,Priya,49,532.4,9583.2
+23-05-2023,South,Karnataka,Hubli,Stationery,2,Keshav,19,4762.71,9525.42
+05-04-2023,West,Gujarat,Vadodara,Groceries,8,Rustam,30,1185.17,9481.36
+27-05-2023,West,Maharashtra,Pune,Stationery,10,Kuldeep,29,938.57,9385.7
+03-08-2023,South,Karnataka,Hubli,Electronics,15,Rajendra,29,624.87,9373.05
+07-10-2023,West,Gujarat,Ahmedabad,Clothing,2,Rustam,50,4664.91,9329.82
+12-06-2023,South,Tamil Nadu,Coimbatore,Stationery,3,Rustam,44,3109.18,9327.54
+16-02-2023,West,Gujarat,Vadodara,Stationery,4,Jaykesh,54,2331.1,9324.4
+24-10-2023,South,Karnataka,Bengaluru,Groceries,11,Pinkesh,20,841.99,9261.89
+22-05-2023,North,Delhi,New Delhi,Stationery,6,Rajendra,34,1537.45,9224.7
+30-10-2023,South,Tamil Nadu,Coimbatore,Electronics,7,Priya,49,1316.13,9212.91
+31-05-2023,West,Maharashtra,Nagpur,Groceries,4,Dinesh,30,2298.98,9195.92
+20-10-2023,North,Delhi,New Delhi,Stationery,2,vishal,23,4527.13,9054.26
+30-04-2023,North,Delhi,Karol Bagh,Furniture,6,vishal,46,1508.35,9050.1
+04-02-2023,South,Tamil Nadu,Coimbatore,Furniture,3,Dinesh,29,3007.45,9022.35
+29-09-2023,West,Maharashtra,Pune,Stationery,9,Priya,17,1001.37,9012.33
+27-11-2023,West,Gujarat,Vadodara,Clothing,12,Pinkesh,19,749.68,8996.16
+09-02-2023,North,Delhi,Dwarka,Groceries,18,Pinkesh,26,497.68,8958.24
+03-07-2023,South,Tamil Nadu,Madurai,Groceries,3,Rajendra,31,2966.4,8899.2
+30-12-2023,South,Tamil Nadu,Coimbatore,Stationery,3,Keshav,18,2961.96,8885.88
+25-01-2023,West,Maharashtra,Pune,Furniture,2,Rajendra,51,4439.5,8879
+21-05-2023,South,Karnataka,Hubli,Clothing,5,Pinkesh,16,1757.01,8785.05
+30-09-2023,West,Gujarat,Surat,Clothing,11,Keshav,25,793.45,8727.95
+28-01-2023,North,Delhi,Karol Bagh,Clothing,4,Pinkesh,23,2169.61,8678.44
+22-03-2023,West,Gujarat,Ahmedabad,Stationery,3,Raghav,48,2880.4,8641.2
+06-04-2023,West,Gujarat,Vadodara,Electronics,7,Raghav,53,1205.89,8441.23
+15-02-2023,West,Gujarat,Ahmedabad,Electronics,10,Keshav,31,843.5,8435
+29-11-2024,West,Gujarat,Ahmedabad,Electronics,10,Rajendra,31,843.5,8435
+20-04-2023,West,Gujarat,Vadodara,Electronics,16,Rajendra,48,523.3,8372.8
+25-09-2023,West,Gujarat,Surat,Groceries,2,Pankaj,24,4176.99,8353.98
+28-10-2023,South,Tamil Nadu,Chennai,Furniture,3,vishal,38,2756.83,8270.49
+21-07-2023,North,Delhi,Dwarka,Groceries,6,Dinesh,29,1366.98,8201.88
+04-05-2023,West,Maharashtra,Nagpur,Groceries,19,Dinesh,30,430.16,8173.04
+03-02-2023,South,Karnataka,Bengaluru,Electronics,7,Rustam,53,1164.6,8152.2
+06-08-2023,South,Karnataka,Hubli,Clothing,10,Pinkesh,40,812.98,8129.8
+16-02-2023,North,Delhi,New Delhi,Groceries,2,Jaykesh,44,4059.61,8119.22
+22-11-2024,North,Delhi,New Delhi,Groceries,2,Priya,44,4059.61,8119.22
+30-08-2023,North,Delhi,New Delhi,Groceries,18,Pankaj,37,448.42,8071.56
+18-06-2023,South,Karnataka,Bengaluru,Groceries,2,Pinkesh,36,4032.05,8064.1
+09-05-2023,South,Karnataka,Bengaluru,Clothing,16,Priya,31,502.59,8041.44
+28-05-2023,South,Karnataka,Hubli,Furniture,2,Rustam,45,4019.4,8038.8
+25-11-2023,South,Karnataka,Mysuru,Groceries,15,Rajendra,28,534.42,8016.3
+30-03-2023,West,Gujarat,Vadodara,Groceries,9,Dinesh,29,888.33,7994.97
+29-05-2023,South,Karnataka,Bengaluru,Furniture,4,vishal,16,1993.97,7975.88
+05-07-2023,North,Delhi,New Delhi,Stationery,14,Dinesh,23,564.63,7904.82
+30-06-2023,West,Maharashtra,Nagpur,Stationery,16,Rajendra,51,494.05,7904.8
+04-10-2023,South,Tamil Nadu,Coimbatore,Clothing,17,Raghav,25,463.54,7880.18
+16-05-2023,West,Maharashtra,Nagpur,Stationery,3,Priya,16,2618.22,7854.66
+22-04-2023,South,Karnataka,Mysuru,Electronics,5,Priya,44,1566.04,7830.2
+03-02-2023,North,Delhi,Karol Bagh,Clothing,4,Kuldeep,51,1938.6,7754.4
+05-01-2023,South,Tamil Nadu,Madurai,Clothing,10,Rajendra,44,772.21,7722.1
+24-11-2023,North,Delhi,Dwarka,Clothing,7,Raghav,34,1102.48,7717.36
+23-11-2023,West,Gujarat,Vadodara,Groceries,9,Pankaj,31,851.87,7666.83
+08-03-2023,West,Gujarat,Ahmedabad,Clothing,2,Kuldeep,39,3825.5,7651
+24-10-2023,West,Maharashtra,Pune,Stationery,2,Pankaj,35,3753.37,7506.74
+24-09-2023,West,Gujarat,Surat,Stationery,10,Pinkesh,24,743.68,7436.8
+17-01-2023,South,Karnataka,Mysuru,Electronics,8,Raghav,34,918.76,7350.08
+20-10-2023,South,Tamil Nadu,Coimbatore,Furniture,3,Pinkesh,17,2444.6,7333.8
+15-12-2024,South,Tamil Nadu,Coimbatore,Furniture,3,Dinesh,17,2444.6,7333.8
+21-02-2023,West,Maharashtra,Mumbai,Furniture,4,vishal,44,1831.79,7327.16
+07-03-2023,South,Tamil Nadu,Madurai,Clothing,5,Rustam,48,1460.84,7304.2
+23-01-2023,West,Maharashtra,Mumbai,Clothing,9,Pinkesh,21,808.93,7280.37
+06-06-2023,West,Maharashtra,Mumbai,Furniture,6,Pankaj,55,1205.36,7232.16
+14-10-2023,South,Tamil Nadu,Chennai,Groceries,5,Jaykesh,38,1445.72,7228.6
+26-08-2023,West,Maharashtra,Mumbai,Electronics,4,Rajendra,51,1788.95,7155.8
+18-03-2023,South,Karnataka,Bengaluru,Clothing,12,Jaykesh,19,596.13,7153.56
+29-03-2023,West,Maharashtra,Pune,Clothing,12,Dinesh,34,593.52,7122.24
+13-06-2023,North,Delhi,Karol Bagh,Groceries,5,Raghav,35,1412.08,7060.4
+11-07-2023,South,Karnataka,Mysuru,Electronics,9,Raghav,21,773.71,6963.39
+12-11-2023,West,Maharashtra,Mumbai,Stationery,14,Raghav,24,492.06,6888.84
+08-12-2023,South,Karnataka,Bengaluru,Electronics,5,Dinesh,41,1372.78,6863.9
+05-09-2023,West,Gujarat,Vadodara,Furniture,7,Raghav,19,978.46,6849.22
+20-08-2023,West,Maharashtra,Nagpur,Stationery,2,Rajendra,54,3385.43,6770.86
+25-07-2023,South,Tamil Nadu,Chennai,Stationery,5,Jaykesh,55,1346.45,6732.25
+16-12-2024,South,Tamil Nadu,Chennai,Stationery,5,Priya,55,1346.45,6732.25
+20-12-2023,South,Karnataka,Mysuru,Groceries,13,vishal,30,512.69,6664.97
+13-11-2023,West,Maharashtra,Pune,Groceries,3,Rajendra,23,2214.86,6644.58
+22-09-2023,South,Karnataka,Bengaluru,Groceries,12,Keshav,16,549.84,6598.08
+28-02-2023,South,Tamil Nadu,Coimbatore,Furniture,5,Rustam,33,1319.46,6597.3
+29-01-2023,West,Maharashtra,Nagpur,Furniture,2,Pankaj,49,3297.48,6594.96
+09-10-2023,West,Maharashtra,Mumbai,Stationery,4,Pinkesh,46,1640.54,6562.16
+05-10-2023,West,Gujarat,Ahmedabad,Groceries,9,Rajendra,47,722.4,6501.6
+08-01-2023,West,Maharashtra,Pune,Stationery,2,Rajendra,47,3240.32,6480.64
+19-06-2023,West,Maharashtra,Mumbai,Electronics,2,Kuldeep,19,3239.94,6479.88
+22-12-2023,North,Delhi,New Delhi,Clothing,12,vishal,43,538.91,6466.92
+05-08-2023,West,Maharashtra,Pune,Stationery,11,Pinkesh,23,587.46,6462.06
+10-12-2023,South,Karnataka,Hubli,Groceries,10,Rajendra,39,642.49,6424.9
+05-04-2023,South,Tamil Nadu,Coimbatore,Furniture,9,Dinesh,37,704.39,6339.51
+24-05-2023,West,Maharashtra,Nagpur,Furniture,3,Raghav,43,2082,6246
+26-09-2023,South,Karnataka,Hubli,Furniture,15,Dinesh,34,413.63,6204.45
+14-01-2023,South,Tamil Nadu,Madurai,Furniture,2,Priya,47,3072.48,6144.96
+17-07-2023,North,Delhi,Karol Bagh,Stationery,3,Dinesh,32,2040.38,6121.14
+22-04-2023,West,Gujarat,Ahmedabad,Clothing,6,Pinkesh,51,1016.27,6097.62
+01-04-2023,West,Gujarat,Vadodara,Stationery,2,Rajendra,55,3037.55,6075.1
+20-12-2024,West,Gujarat,Vadodara,Stationery,2,Rustam,55,3037.55,6075.1
+14-11-2023,West,Gujarat,Vadodara,Clothing,8,vishal,42,758.58,6068.64
+02-01-2023,West,Gujarat,Ahmedabad,Groceries,11,Keshav,44,548.92,6038.12
+01-05-2023,West,Maharashtra,Mumbai,Groceries,5,vishal,49,1204.64,6023.2
+21-06-2023,West,Maharashtra,Pune,Electronics,7,Keshav,25,859.87,6019.09
+17-02-2023,South,Karnataka,Bengaluru,Groceries,4,Jaykesh,45,1493.04,5972.16
+01-03-2023,South,Tamil Nadu,Coimbatore,Stationery,5,Keshav,17,1192.82,5964.1
+08-07-2023,South,Karnataka,Hubli,Furniture,5,vishal,41,1185.45,5927.25
+13-11-2023,South,Karnataka,Mysuru,Stationery,2,Rajendra,20,2914.14,5828.28
+05-04-2023,South,Karnataka,Mysuru,Stationery,4,Raghav,51,1456.19,5824.76
+27-06-2023,South,Karnataka,Hubli,Electronics,8,Priya,25,720.07,5760.56
+27-02-2023,West,Maharashtra,Nagpur,Stationery,2,Pinkesh,20,2875.84,5751.68
+26-03-2023,South,Karnataka,Hubli,Clothing,4,Rustam,28,1434.97,5739.88
+14-10-2023,West,Maharashtra,Nagpur,Groceries,5,Rajendra,42,1141.32,5706.6
+08-03-2023,West,Gujarat,Ahmedabad,Stationery,16,Keshav,33,355.63,5690.08
+28-12-2023,South,Tamil Nadu,Coimbatore,Stationery,10,Jaykesh,46,568.6,5686
+07-03-2023,South,Tamil Nadu,Madurai,Clothing,4,Dinesh,27,1385.95,5543.8
+04-09-2023,South,Karnataka,Mysuru,Groceries,4,Jaykesh,16,1381.71,5526.84
+17-11-2023,West,Gujarat,Surat,Clothing,3,Kuldeep,50,1818.3,5454.9
+01-07-2023,North,Delhi,Karol Bagh,Furniture,16,Rajendra,48,338.38,5414.08
+05-01-2023,West,Gujarat,Vadodara,Groceries,2,Kuldeep,52,2704.98,5409.96
+12-02-2023,North,Delhi,Karol Bagh,Groceries,9,Rajendra,21,593.01,5337.09
+30-05-2023,South,Karnataka,Mysuru,Furniture,8,Jaykesh,25,659.36,5274.88
+25-03-2023,West,Maharashtra,Pune,Stationery,16,vishal,20,328.65,5258.4
+27-11-2023,West,Gujarat,Surat,Clothing,4,Jaykesh,35,1303.88,5215.52
+15-05-2023,South,Tamil Nadu,Madurai,Electronics,16,Jaykesh,42,325.52,5208.32
+15-10-2023,South,Tamil Nadu,Madurai,Electronics,15,Pankaj,46,346.45,5196.75
+21-01-2023,North,Delhi,New Delhi,Furniture,6,Jaykesh,26,863.69,5182.14
+02-08-2023,South,Karnataka,Bengaluru,Groceries,16,Rajendra,47,317.82,5085.12
+16-03-2023,West,Maharashtra,Nagpur,Clothing,4,vishal,52,1256.34,5025.36
+12-04-2023,South,Karnataka,Hubli,Groceries,2,Raghav,41,2493.06,4986.12
+21-08-2023,South,Tamil Nadu,Chennai,Groceries,7,Kuldeep,26,711.35,4979.45
+28-07-2023,North,Delhi,Dwarka,Clothing,18,Priya,49,276.35,4974.3
+12-03-2023,South,Karnataka,Hubli,Stationery,6,Keshav,25,827.78,4966.68
+28-06-2023,South,Tamil Nadu,Coimbatore,Groceries,7,Dinesh,32,705.03,4935.21
+10-10-2023,South,Karnataka,Mysuru,Electronics,7,Kuldeep,36,702.24,4915.68
+06-06-2023,South,Karnataka,Mysuru,Furniture,5,Pankaj,24,975.39,4876.95
+22-05-2023,North,Delhi,Karol Bagh,Furniture,1,Keshav,35,4859.65,4859.65
+04-02-2023,North,Delhi,Dwarka,Electronics,5,Rajendra,44,968.86,4844.3
+10-12-2023,West,Gujarat,Surat,Electronics,4,Raghav,48,1208.21,4832.84
+29-04-2023,North,Delhi,Karol Bagh,Stationery,1,Rustam,33,4815.06,4815.06
+18-05-2023,West,Maharashtra,Pune,Groceries,2,Jaykesh,44,2402.57,4805.14
+14-10-2023,West,Gujarat,Ahmedabad,Furniture,2,Pinkesh,44,2400.55,4801.1
+12-08-2023,North,Delhi,Karol Bagh,Clothing,15,Pinkesh,37,318.32,4774.8
+15-04-2023,South,Tamil Nadu,Coimbatore,Furniture,8,Dinesh,55,592.82,4742.56
+18-08-2023,South,Tamil Nadu,Madurai,Stationery,3,Rajendra,48,1577.9,4733.7
+09-03-2023,North,Delhi,Dwarka,Electronics,4,Keshav,42,1181.39,4725.56
+01-11-2023,South,Tamil Nadu,Coimbatore,Electronics,18,Dinesh,46,262.12,4718.16
+06-06-2023,West,Maharashtra,Nagpur,Clothing,1,Pankaj,47,4681.07,4681.07
+21-08-2023,South,Karnataka,Bengaluru,Electronics,9,Pinkesh,23,515.97,4643.73
+22-06-2023,West,Maharashtra,Nagpur,Stationery,1,Dinesh,52,4640.17,4640.17
+06-10-2023,North,Delhi,New Delhi,Electronics,4,Raghav,22,1147.06,4588.24
+08-02-2023,South,Karnataka,Mysuru,Groceries,17,Rajendra,22,269.7,4584.9
+31-10-2023,South,Karnataka,Bengaluru,Electronics,2,Kuldeep,33,2287.09,4574.18
+18-12-2024,South,Karnataka,Bengaluru,Electronics,2,Priya,33,2287.09,4574.18
+09-03-2023,North,Delhi,Dwarka,Electronics,5,Rustam,33,912.33,4561.65
+01-12-2023,West,Gujarat,Vadodara,Clothing,1,Priya,39,4557.06,4557.06
+28-11-2024,West,Gujarat,Vadodara,Clothing,1,Priya,39,4557.06,4557.06
+22-12-2023,North,Delhi,Karol Bagh,Electronics,4,Rajendra,50,1128.89,4515.56
+22-02-2023,North,Delhi,Karol Bagh,Stationery,1,Raghav,55,4511.88,4511.88
+07-02-2023,South,Tamil Nadu,Chennai,Furniture,8,Keshav,54,562.98,4503.84
+25-05-2023,West,Gujarat,Ahmedabad,Stationery,2,Priya,33,2238.46,4476.92
+24-01-2023,West,Gujarat,Ahmedabad,Groceries,6,Keshav,42,744.85,4469.1
+27-10-2023,South,Tamil Nadu,Coimbatore,Clothing,1,vishal,22,4443.22,4443.22
+27-11-2023,South,Karnataka,Mysuru,Stationery,7,Kuldeep,55,633.15,4432.05
+13-07-2023,South,Tamil Nadu,Coimbatore,Electronics,9,vishal,20,491.64,4424.76
+08-08-2023,West,Maharashtra,Mumbai,Furniture,9,Rustam,21,489.27,4403.43
+14-12-2024,West,Maharashtra,Mumbai,Furniture,9,Rustam,21,489.27,4403.43
+27-01-2023,West,Gujarat,Surat,Groceries,5,Rustam,52,879.82,4399.1
+28-05-2023,West,Gujarat,Ahmedabad,Groceries,5,Priya,36,877.62,4388.1
+25-12-2023,West,Gujarat,Vadodara,Stationery,2,Priya,46,2171.79,4343.58
+28-02-2023,West,Maharashtra,Mumbai,Groceries,4,Raghav,40,1080.16,4320.64
+28-02-2023,South,Karnataka,Mysuru,Stationery,10,Priya,45,429.69,4296.9
+30-05-2023,North,Delhi,Karol Bagh,Electronics,2,Keshav,50,2119.51,4239.02
+13-06-2023,West,Gujarat,Ahmedabad,Groceries,14,Rustam,51,298.99,4185.86
+30-11-2023,South,Karnataka,Bengaluru,Clothing,2,Rustam,21,2087.14,4174.28
+08-03-2023,North,Delhi,Karol Bagh,Electronics,11,vishal,49,377.1,4148.1
+23-09-2023,West,Maharashtra,Mumbai,Electronics,6,Rajendra,44,686.38,4118.28
+24-06-2023,West,Gujarat,Surat,Furniture,1,Jaykesh,51,4117.97,4117.97
+04-01-2023,West,Gujarat,Surat,Electronics,4,Rustam,46,1027.32,4109.28
+08-01-2023,North,Delhi,New Delhi,Stationery,9,Priya,19,455.98,4103.82
+24-05-2023,North,Delhi,New Delhi,Electronics,4,Kuldeep,42,1020.23,4080.92
+24-11-2024,North,Delhi,New Delhi,Electronics,4,Priya,42,1020.23,4080.92
+10-10-2023,West,Maharashtra,Mumbai,Groceries,5,Rajendra,32,800.88,4004.4
+29-06-2023,West,Gujarat,Ahmedabad,Groceries,14,Rajendra,31,283.7,3971.8
+14-09-2023,South,Tamil Nadu,Coimbatore,Electronics,2,Keshav,16,1983.93,3967.86
+11-12-2024,South,Tamil Nadu,Coimbatore,Electronics,2,Rajendra,16,1983.93,3967.86
+09-02-2023,South,Tamil Nadu,Madurai,Groceries,1,Pankaj,43,3964.37,3964.37
+22-04-2023,South,Karnataka,Bengaluru,Clothing,1,Dinesh,20,3964.08,3964.08
+16-03-2023,West,Gujarat,Surat,Electronics,2,vishal,49,1971,3942
+08-04-2023,West,Maharashtra,Mumbai,Clothing,1,Rustam,34,3847.65,3847.65
+20-11-2023,North,Delhi,New Delhi,Furniture,4,Keshav,28,961.38,3845.52
+17-11-2024,North,Delhi,New Delhi,Furniture,4,Rajendra,28,961.38,3845.52
+04-03-2023,North,Delhi,Karol Bagh,Stationery,1,Pinkesh,35,3781.47,3781.47
+12-03-2023,South,Karnataka,Hubli,Groceries,2,Dinesh,35,1888.47,3776.94
+30-09-2023,South,Karnataka,Hubli,Stationery,1,Jaykesh,49,3754.28,3754.28
+19-04-2023,North,Delhi,Dwarka,Furniture,10,Rajendra,30,373.54,3735.4
+29-08-2023,South,Tamil Nadu,Coimbatore,Furniture,1,Raghav,38,3734.74,3734.74
+24-06-2023,South,Tamil Nadu,Coimbatore,Furniture,14,Pinkesh,41,264.6,3704.4
+30-06-2023,West,Maharashtra,Pune,Groceries,1,Dinesh,45,3698.2,3698.2
+07-02-2023,West,Maharashtra,Nagpur,Clothing,11,Rajendra,28,335.31,3688.41
+15-10-2023,West,Gujarat,Surat,Clothing,1,Rajendra,50,3658.84,3658.84
+28-08-2023,South,Karnataka,Bengaluru,Clothing,2,Kuldeep,54,1827.28,3654.56
+14-05-2023,South,Tamil Nadu,Chennai,Clothing,3,Rajendra,49,1205.62,3616.86
+29-01-2023,West,Gujarat,Surat,Electronics,5,Raghav,33,714.68,3573.4
+25-03-2023,South,Tamil Nadu,Madurai,Groceries,5,Priya,24,695.3,3476.5
+27-11-2023,West,Maharashtra,Pune,Groceries,1,Kuldeep,50,3459.33,3459.33
+08-10-2023,West,Maharashtra,Pune,Clothing,19,Rajendra,41,182.01,3458.19
+18-12-2023,South,Karnataka,Mysuru,Furniture,3,Pinkesh,28,1139.59,3418.77
+29-07-2023,West,Maharashtra,Nagpur,Clothing,12,Priya,49,283.86,3406.32
+02-09-2023,West,Maharashtra,Nagpur,Furniture,2,Pankaj,27,1695.6,3391.2
+06-04-2023,West,Gujarat,Surat,Groceries,3,Pankaj,48,1129.83,3389.49
+10-08-2023,South,Karnataka,Mysuru,Furniture,1,Dinesh,51,3374.31,3374.31
+16-10-2023,West,Gujarat,Vadodara,Clothing,2,Raghav,28,1673.1,3346.2
+23-08-2023,South,Tamil Nadu,Madurai,Groceries,3,Rustam,35,1076.57,3229.71
+12-05-2023,North,Delhi,Karol Bagh,Clothing,16,Rajendra,35,199.87,3197.92
+06-01-2023,South,Tamil Nadu,Chennai,Stationery,2,Kuldeep,42,1582.65,3165.3
+15-10-2023,South,Tamil Nadu,Coimbatore,Furniture,3,Kuldeep,20,1046.06,3138.18
+15-12-2023,South,Karnataka,Mysuru,Groceries,3,Rajendra,48,1043.39,3130.17
+23-06-2023,West,Gujarat,Ahmedabad,Electronics,12,Priya,22,255.59,3067.08
+05-03-2023,West,Maharashtra,Mumbai,Furniture,1,Raghav,35,3059.01,3059.01
+17-04-2023,South,Karnataka,Hubli,Clothing,1,Rustam,33,3042.8,3042.8
+28-02-2023,South,Karnataka,Bengaluru,Electronics,8,Rajendra,16,372.22,2977.76
+12-09-2023,South,Karnataka,Hubli,Stationery,11,Keshav,37,268.13,2949.43
+19-03-2023,South,Tamil Nadu,Coimbatore,Groceries,6,Kuldeep,55,484.95,2909.7
+21-12-2023,South,Karnataka,Bengaluru,Furniture,4,Priya,45,722.05,2888.2
+07-01-2023,South,Karnataka,Mysuru,Stationery,7,vishal,24,410.28,2871.96
+23-04-2023,South,Tamil Nadu,Madurai,Electronics,3,Pankaj,52,938.33,2814.99
+27-10-2023,West,Gujarat,Ahmedabad,Stationery,11,Pankaj,50,255.3,2808.3
+27-11-2024,West,Gujarat,Ahmedabad,Stationery,11,Dinesh,50,255.3,2808.3
+25-10-2023,North,Delhi,Dwarka,Furniture,4,Pankaj,45,700.07,2800.28
+18-12-2023,West,Maharashtra,Mumbai,Furniture,2,Raghav,45,1377.64,2755.28
+25-09-2023,West,Maharashtra,Nagpur,Clothing,7,Pinkesh,27,392.9,2750.3
+12-07-2023,West,Gujarat,Surat,Clothing,1,Raghav,23,2716.98,2716.98
+28-10-2023,North,Delhi,Karol Bagh,Clothing,12,Raghav,41,225.88,2710.56
+24-08-2023,South,Karnataka,Mysuru,Electronics,1,Raghav,36,2710.27,2710.27
+30-05-2023,South,Tamil Nadu,Coimbatore,Stationery,1,Pankaj,37,2664.84,2664.84
+03-11-2023,West,Gujarat,Ahmedabad,Electronics,3,Kuldeep,41,884.5,2653.5
+12-10-2023,North,Delhi,Dwarka,Furniture,14,Priya,43,188.94,2645.16
+20-07-2023,West,Gujarat,Vadodara,Furniture,2,Priya,54,1316.79,2633.58
+30-09-2023,West,Gujarat,Vadodara,Electronics,1,Priya,18,2571.59,2571.59
+24-12-2023,South,Tamil Nadu,Chennai,Electronics,15,Priya,42,170.6,2559
+01-10-2023,South,Tamil Nadu,Chennai,Stationery,4,Pinkesh,54,637.89,2551.56
+03-04-2023,North,Delhi,Dwarka,Groceries,8,Raghav,50,315,2520
+14-04-2023,West,Maharashtra,Pune,Clothing,1,Kuldeep,27,2517.32,2517.32
+12-02-2023,North,Delhi,Dwarka,Furniture,1,Raghav,25,2489.17,2489.17
+18-06-2023,South,Tamil Nadu,Madurai,Electronics,8,Rajendra,25,308.68,2469.44
+15-02-2023,North,Delhi,Karol Bagh,Clothing,1,Jaykesh,49,2466.01,2466.01
+02-04-2023,South,Karnataka,Mysuru,Stationery,5,Kuldeep,54,491.78,2458.9
+08-11-2023,West,Maharashtra,Pune,Furniture,11,Dinesh,23,212.86,2341.46
+27-06-2023,South,Karnataka,Bengaluru,Electronics,3,Rajendra,53,772.21,2316.63
+20-09-2023,West,Gujarat,Surat,Furniture,8,Keshav,17,285.94,2287.52
+23-12-2024,West,Gujarat,Surat,Furniture,8,Rajendra,17,285.94,2287.52
+19-11-2023,West,Gujarat,Vadodara,Stationery,12,Priya,44,186.62,2239.44
+14-12-2023,South,Karnataka,Bengaluru,Furniture,10,Jaykesh,20,222.55,2225.5
+28-04-2023,North,Delhi,Dwarka,Groceries,5,Kuldeep,24,438.69,2193.45
+17-05-2023,South,Karnataka,Bengaluru,Stationery,2,Priya,34,1063.35,2126.7
+21-04-2023,South,Tamil Nadu,Coimbatore,Stationery,7,Priya,34,299.68,2097.76
+02-11-2023,South,Karnataka,Mysuru,Clothing,9,Keshav,52,228.49,2056.41
+27-10-2023,West,Maharashtra,Pune,Groceries,1,Kuldeep,45,1999.98,1999.98
+15-09-2023,North,Delhi,Karol Bagh,Groceries,1,vishal,52,1981.82,1981.82
+23-09-2023,West,Gujarat,Vadodara,Furniture,7,Rustam,34,281.29,1969.03
+28-03-2023,North,Delhi,New Delhi,Electronics,1,Pinkesh,23,1967.8,1967.8
+17-08-2023,South,Karnataka,Bengaluru,Clothing,8,Rajendra,16,244.6,1956.8
+12-02-2023,West,Gujarat,Ahmedabad,Furniture,1,Priya,46,1898.15,1898.15
+31-03-2023,West,Maharashtra,Pune,Groceries,1,Rajendra,41,1889.5,1889.5
+03-06-2023,South,Karnataka,Bengaluru,Clothing,9,Rajendra,31,203.38,1830.42
+29-06-2023,North,Delhi,Dwarka,Clothing,1,Rajendra,18,1793.18,1793.18
+17-09-2023,North,Delhi,New Delhi,Clothing,7,Rajendra,48,252.75,1769.25
+25-03-2023,North,Delhi,New Delhi,Groceries,4,Keshav,31,431.75,1727
+25-05-2023,South,Tamil Nadu,Madurai,Groceries,4,Jaykesh,46,430.91,1723.64
+30-08-2023,North,Delhi,New Delhi,Groceries,5,Priya,30,334.29,1671.45
+29-08-2023,West,Maharashtra,Mumbai,Stationery,2,Pinkesh,22,816.12,1632.24
+28-09-2023,South,Tamil Nadu,Madurai,Clothing,11,Pankaj,24,146.47,1611.17
+25-07-2023,South,Karnataka,Hubli,Clothing,10,Kuldeep,31,159.27,1592.7
+05-06-2023,North,Delhi,Karol Bagh,Electronics,1,Rustam,43,1591.88,1591.88
+06-01-2023,South,Tamil Nadu,Chennai,Groceries,2,Pankaj,48,779.35,1558.7
+20-07-2023,South,Tamil Nadu,Coimbatore,Electronics,7,Pinkesh,45,222.61,1558.27
+01-11-2023,South,Tamil Nadu,Chennai,Clothing,1,Pinkesh,19,1520.97,1520.97
+28-12-2023,West,Maharashtra,Pune,Stationery,1,Pinkesh,30,1520.22,1520.22
+23-07-2023,West,Maharashtra,Nagpur,Stationery,2,Rajendra,46,741.33,1482.66
+19-03-2023,South,Tamil Nadu,Chennai,Furniture,4,Keshav,25,366.33,1465.32
+12-04-2023,North,Delhi,New Delhi,Furniture,1,vishal,34,1410.8,1410.8
+24-10-2023,South,Karnataka,Bengaluru,Clothing,3,Priya,24,468.7,1406.1
+14-12-2023,South,Tamil Nadu,Chennai,Furniture,5,vishal,45,278.31,1391.55
+02-10-2023,North,Delhi,Dwarka,Stationery,11,Pankaj,32,124.03,1364.33
+07-07-2023,South,Tamil Nadu,Coimbatore,Electronics,1,Rustam,34,1355.14,1355.14
+14-01-2023,South,Karnataka,Mysuru,Electronics,2,Pinkesh,54,659.83,1319.66
+07-10-2023,West,Gujarat,Ahmedabad,Groceries,1,Keshav,27,1286.11,1286.11
+29-10-2023,South,Tamil Nadu,Madurai,Groceries,1,vishal,50,1239.25,1239.25
+06-05-2023,South,Karnataka,Bengaluru,Clothing,1,Rajendra,39,1219.1,1219.1
+24-08-2023,West,Gujarat,Vadodara,Electronics,3,Pinkesh,53,403.5,1210.5
+19-07-2023,South,Karnataka,Hubli,Clothing,4,Keshav,55,277.45,1109.8
+18-08-2023,South,Tamil Nadu,Chennai,Groceries,1,Dinesh,53,1094.88,1094.88
+20-10-2023,North,Delhi,Dwarka,Stationery,5,Rustam,42,214.25,1071.25
+27-11-2023,West,Maharashtra,Pune,Stationery,6,Jaykesh,53,177.34,1064.04
+16-04-2023,North,Delhi,Dwarka,Clothing,2,Kuldeep,31,528.62,1057.24
+27-11-2023,West,Gujarat,Vadodara,Electronics,1,Dinesh,51,983.24,983.24
+28-12-2023,South,Karnataka,Hubli,Electronics,1,Raghav,25,979.17,979.17
+10-11-2023,West,Gujarat,Ahmedabad,Furniture,5,Jaykesh,28,172.99,864.95
+20-06-2023,North,Delhi,New Delhi,Groceries,1,Raghav,26,840.65,840.65
+19-06-2023,West,Maharashtra,Nagpur,Stationery,3,Jaykesh,40,264.98,794.94
+12-04-2023,North,Delhi,New Delhi,Groceries,5,Pinkesh,31,143.78,718.9
+03-06-2023,South,Tamil Nadu,Chennai,Clothing,1,Priya,39,696.38,696.38
+14-10-2023,South,Tamil Nadu,Madurai,Stationery,1,Keshav,49,648.88,648.88
+13-04-2023,South,Tamil Nadu,Coimbatore,Furniture,1,Kuldeep,31,632.39,632.39
+22-02-2023,South,Karnataka,Bengaluru,Stationery,2,Rustam,18,296.53,593.06
+06-11-2023,South,Tamil Nadu,Madurai,Electronics,1,Rustam,48,585.58,585.58
+16-03-2023,West,Maharashtra,Mumbai,Electronics,1,Raghav,26,568.55,568.55
+23-03-2023,North,Delhi,New Delhi,Clothing,2,Jaykesh,20,233.75,467.5
+07-12-2023,North,Delhi,New Delhi,Clothing,3,Pinkesh,36,144.39,433.17
+03-12-2024,North,Delhi,New Delhi,Clothing,3,Dinesh,36,144.39,433.17
+21-08-2023,South,Tamil Nadu,Chennai,Clothing,1,Dinesh,41,421.27,421.27
+11-09-2023,West,Maharashtra,Nagpur,Clothing,3,Priya,51,116.58,349.74
+29-01-2023,South,Karnataka,Hubli,Electronics,2,Pinkesh,34,161.19,322.38
+19-02-2023,West,Gujarat,Ahmedabad,Groceries,1,Jaykesh,23,302.02,302.02
+23-01-2023,South,Tamil Nadu,Chennai,Groceries,1,vishal,21,267.32,267.32
+13-11-2024,South,Tamil Nadu,Chennai,Groceries,1,Rustam,21,267.32,267.32
+19-06-2023,West,Maharashtra,Nagpur,Stationery,3,Jaykesh,40,264.98,794.94
+12-04-2023,North,Delhi,New Delhi,Groceries,5,Pinkesh,31,143.78,718.9
+03-06-2023,South,Tamil Nadu,Chennai,Clothing,1,Priya,39,696.38,696.38
+14-10-2023,South,Tamil Nadu,Madurai,Stationery,1,Keshav,49,648.88,648.88
+13-04-2023,South,Tamil Nadu,Coimbatore,Furniture,1,Vikas,31,632.39,632.39
+22-02-2023,South,Karnataka,Bengaluru,Stationery,2,Rustam,18,296.53,593.06
+06-11-2023,South,Tamil Nadu,Madurai,Electronics,1,Rustam,48,585.58,585.58
+16-03-2023,West,Maharashtra,Mumbai,Electronics,1,Raghav,26,568.55,568.55
+23-03-2023,North,Delhi,New Delhi,Clothing,2,Vikas,20,233.75,467.5
+07-12-2023,North,Delhi,New Delhi,Clothing,3,Pinkesh,36,144.39,433.17
+03-12-2024,North,Delhi,New Delhi,Clothing,3,Dinesh,36,144.39,433.17
+21-08-2023,South,Tamil Nadu,Chennai,Clothing,1,Dinesh,41,421.27,421.27
+11-09-2023,West,Maharashtra,Nagpur,Clothing,3,Priya,51,116.58,349.74
+29-01-2023,South,Karnataka,Hubli,Electronics,2,Pinkesh,34,161.19,322.38
+19-02-2023,West,Gujarat,Ahmedabad,Groceries,1,Vikas,23,302.02,302.02
+23-01-2023,South,Tamil Nadu,Chennai,Groceries,1,vishal,21,267.32,267.32
+13-11-2024,South,Tamil Nadu,Chennai,Groceries,1,Rustam,21,267.32,267.32
